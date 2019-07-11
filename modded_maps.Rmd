@@ -1,0 +1,108 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+library(assertr)
+```
+
+```{r}
+new_sapo <- read_csv("outputs/new_post_office_list.csv")
+head(new_sapo)
+
+```
+```{r}
+
+municipalities <- unique(new_sapo$Municipality)
+for (iter_muni in municipalities) {
+  by_municipality <- new_sapo %>%
+    filter(Municipality == iter_muni) %>%
+    select(`Street Code`,`Box Code`)
+    #col_concat(sep = ", ")
+  tester <- by_municipality %>%
+    str_remove_all("-------") %>%
+    str_remove_all("[:punct:]") %>%
+    str_replace_all(" ", ",")
+  write_csv(as.data.frame(tester), path = paste("outputs/muni/", iter_muni, ".csv") )
+  uni_post <- as.data.frame(unique(by_municipality))
+}
+
+tbl <-
+    list.files(path = "./outputs/muni/",
+               pattern = "*.csv", 
+               full.names = T) %>% 
+    map_df(~read_csv(., col_types = cols(.default = "c"))) 
+
+read_plus <- function(flnm) {
+    read_csv(flnm) %>% 
+        mutate(filename = flnm)
+}
+
+tbl_with_sources <-
+    list.files(path = "./outputs/muni/",
+               pattern = "*.csv", 
+               full.names = T) %>% 
+    map_df(~read_plus(.))
+write_tsv(tbl_with_sources, path = "./outputs/muni_group.tsv")
+
+
+# areas <- unique(new_sapo$Area)
+# for (iter_area in areas) {
+#   by_area <- new_sapo %>%
+#     filter(Area == iter_area) %>%
+#     select(`Street Code`, `Box Code`) %>%
+#     col_concat(sep = ", ")
+#   atester <- by_area %>%
+#     str_remove_all("-------") %>%
+#     str_remove_all("[:punct:]") %>%
+#     str_replace_all(" ", ",")
+#   write_csv(as.data.frame(atester), path = paste("outputs/areas/", iter_area, ".csv"))
+# }
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+```{r}
+setwd("~/Documents/Programming/Mother dearest/Postal Code Project")
+new_maps <- read_csv("./csv_data/final_table_map.csv")
+```
+```{r}
+if(!requireNamespace("devtools")) install.packages("devtools")
+devtools::install_github("dkahle/ggmap", ref = "tidyup", force=TRUE)
+
+#Load the library
+library("ggmap")
+ggmap::register_google(key = "AIzaSyCf_dIiMGEZEtw1pjg325Sr8X2Vdg9QDEo")
+```
+```{r}
+library(ggplot2)
+library(plotly)
+library(ggmap)
+```
+
+```{r}
+
+for (state in unique(new_maps$State)) {
+  df_sapo_plot <- new_maps %>%
+    filter(State == state)
+  p <- ggmap(get_googlemap(center = "South Africa", size = c(640, 640), zoom = 6, scale = 2, maptype = "roadmap", color = "color", region = "za"))
+  
+  street_plot <- p + geom_point(data = df_sapo_plot , aes(x = Geo_X, y = Geo_Y, color = State, alpha = 0.5, text = paste(
+    "City / Town: ", Town, "\n",
+    "Postal Code: ", Zip, "\n",
+    "Province: ", State, "\n",
+    sep = ""))) 
+  sapo_street_plot <- ggplotly(street_plot, tooltip = "text")
+  htmlwidgets::saveWidget(as_widget(sapo_street_plot), paste("postal_codes_",state,".html"))
+}
+```
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+

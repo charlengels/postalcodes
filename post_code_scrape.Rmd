@@ -1,0 +1,103 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+library(tidyverse)
+library(rvest)
+library(stringr)
+
+pcode <- read_csv("new data/final_checking_rep_has_header.csv") %>%
+  select('Pcode') %>%
+  unlist(use.names = FALSE)
+po_data = data.frame()
+for (j in 1:length(pcode)) {
+  str_lookup <- pcode[j]
+  html_file <- read_html(str_c("http://postalcodez.co.za/sapostcodes.cgi?search_suburb=",str_lookup))
+    
+    page_data <- html_file %>%
+      html_nodes(".result") %>%
+      html_text()
+    
+    
+    for (i in page_data){
+      temp <- i[1] %>%
+                str_replace("\nLocation:", "") %>%
+                str_replace("\nStreet Code:", ",") %>%
+                str_replace("\nBox Code:", ",") %>%
+                str_replace("\nArea:", ",") %>%
+                str_replace("\nMunicipality:",",") %>%
+                str_replace("\nState:", ",") %>%
+                str_replace("\nCountry:", ",") %>%
+                str_replace("\n", "")
+      temp <- str_split(temp, ",")
+      temp_str <- as.data.frame(t(unlist(temp)), stringsAsFactors = FALSE)
+        
+      po_data <- rbind(po_data, temp_str)
+      print(str_c("Area Code: ",str_lookup, "Area: ", temp_str$V1))
+  } #for i loop
+
+} #for j loop
+headers <- c("Location", "Street_code", "Box_code", "Area", "Municipality", "Province", "Country")
+colnames(po_data) <- headers
+write_csv(po_data, "list of all areas.csv")
+
+suburbs <- unique(po_data$Location)
+nsub <- length(suburbs)
+
+po_data <- read_csv("list of all areas.csv")
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+```{r}
+library(plotly)
+library(reticulate)
+use_python("/Users/charlengels/anaconda3/bin/python", required = T)
+
+
+# Check the version of Python.
+py_config()
+
+import("googlemaps")
+source_python("geocoding.py")
+
+library("ggmap")
+ggmap::register_google(key = "AIzaSyCf_dIiMGEZEtw1pjg325Sr8X2Vdg9QDEo")
+
+library(ggplot2)
+```
+
+```{r}
+
+suburban_plots <- read_csv("list of all areas.csv") %>%
+  filter
+
+for (i in 1:nrow(suburban_plots)) {
+  lookup <-  paste(suburban_plots[i,"Location"], suburban_plots[i,"Area"], suburban_plots[i, "Province"], "South Africa", sep = ", ")
+  
+  
+  try (
+    expr = {
+      co_ords <- get_geocode(lookup)
+      suburban_plots[i, "Lat"] <- co_ords[[1]]
+      suburban_plots[i, "Lon"] <- co_ords[[2]]    
+      print(paste(i, lookup,"Lat", co_ords[[1]],"Long", co_ords[[2]],  sep = " -> "))
+      }
+    
+  )
+  
+### Output below  
+}
+write_csv(suburban, "./suburban_coordinates.csv")
+```
+
+
