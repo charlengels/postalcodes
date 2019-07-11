@@ -1,0 +1,1978 @@
+Eastern Cape,Port Alfred,Albany Street,-33.586772,26.906552                                                                                                   ,
+
+Eastern Cape,Port Alfred,Albany Street,-33.589591,26.901472                                                                                                   ,
+
+Eastern Cape,Port Alfred,Albatross Lane,-33.605084,26.880207                                                                                                  ,
+
+Eastern Cape,Port Alfred,Alfred Road,-33.583465,26.90059                                                                                                      ,
+
+Eastern Cape,Port Alfred,Alfred Road,-33.58536,26.897472                                                                                                      ,
+
+Eastern Cape,Port Alfred,Alfred Road,-33.588968,26.892715                                                                                                     ,
+
+Eastern Cape,Port Alfred,Alton Close,-33.614687,26.875692                                                                                                     ,
+
+Eastern Cape,Port Alfred,Anne Mckay Road,-33.589802,26.866729                                                                                                 ,
+
+Eastern Cape,Port Alfred,Arundel Close,-33.615225,26.874969                                                                                                   ,
+
+Eastern Cape,Port Alfred,Atherstone Road,-33.596013,26.875108                                                                                                 ,
+
+Eastern Cape,Port Alfred,Atherstone Road,-33.60022,26.881922                                                                                                  ,
+
+Eastern Cape,Port Alfred,Avocet Close,-33.603711,26.892518                                                                                                    ,
+
+Eastern Cape,Port Alfred,Aylesbury Road,-33.584383,26.890963                                                                                                  ,
+
+Eastern Cape,Port Alfred,Bank Lane,-33.58958,26.887439                                                                                                        ,
+
+Eastern Cape,Port Alfred,Barham Street,-33.607415,26.878919                                                                                                   ,
+
+Eastern Cape,Port Alfred,Bathurst Street,-33.580027,26.898069                                                                                                 ,
+
+Eastern Cape,Port Alfred,Bathurst Street,-33.583903,26.903163                                                                                                 ,
+
+Eastern Cape,Port Alfred,Bathurst Street,-33.586679,26.905747                                                                                                 ,
+
+Eastern Cape,Port Alfred,Beach Road,-33.601857,26.897402                                                                                                      ,
+
+Eastern Cape,Port Alfred,Beach Street Crescent,-33.59301,26.898774                                                                                            ,
+
+Eastern Cape,Port Alfred,Becker Street,-33.593932,26.880642                                                                                                   ,
+
+Eastern Cape,Port Alfred,Beckson Kuhlane,-33.559969,26.895286                                                                                                 ,
+
+Eastern Cape,Port Alfred,Bells Crescent,-33.594754,26.871223                                                                                                  ,
+
+Eastern Cape,Port Alfred,Bells Crescent,-33.595133,26.871837                                                                                                  ,
+
+Eastern Cape,Port Alfred,Biddulph Road,-33.584387,26.897491                                                                                                   ,
+
+Eastern Cape,Port Alfred,Biscay Road,-33.590217,26.88106                                                                                                      ,
+
+Eastern Cape,Port Alfred,Biscay Road,-33.591755,26.882727                                                                                                     ,
+
+Eastern Cape,Port Alfred,Biscay Road,-33.594041,26.884343                                                                                                     ,
+
+Eastern Cape,Port Alfred,Booysens Street,-33.580126,26.895869                                                                                                 ,
+
+Eastern Cape,Port Alfred,Boundary Street,-33.604826,26.87899                                                                                                  ,
+
+Eastern Cape,Port Alfred,Bowker Lane,-33.587386,26.892902                                                                                                     ,
+
+Eastern Cape,Port Alfred,Brighton Road,-33.592477,26.89995                                                                                                    ,
+
+Eastern Cape,Port Alfred,Broadway Street,-33.605886,26.876681                                                                                                 ,
+
+Eastern Cape,Port Alfred,Bromley Street,-33.606753,26.878336                                                                                                  ,
+
+Eastern Cape,Port Alfred,Buller Street,-33.593229,26.872017                                                                                                   ,
+
+Eastern Cape,Port Alfred,Buller Street,-33.594495,26.872641                                                                                                   ,
+
+Eastern Cape,Port Alfred,Burke Close,-33.612395,26.879272                                                                                                     ,
+
+Eastern Cape,Port Alfred,Burke Street,-33.611405,26.878331                                                                                                    ,
+
+Eastern Cape,Port Alfred,Bush Buck Avenue,-33.591655,26.866273                                                                                                ,
+
+Eastern Cape,Port Alfred,Campbell Street,-33.588893,26.882382                                                                                                 ,
+
+Eastern Cape,Port Alfred,Campbell Street,-33.59139,26.884818                                                                                                  ,
+
+Eastern Cape,Port Alfred,Carnation Crescent,-33.583822,26.89345                                                                                               ,
+
+Eastern Cape,Port Alfred,Carnation Crescent,-33.584122,26.894059                                                                                              ,
+
+Eastern Cape,Port Alfred,Carnoustie Avenue,-33.613458,26.885231                                                                                               ,
+
+Eastern Cape,Port Alfred,Caxton Lane,-33.591558,26.893394                                                                                                     ,
+
+Eastern Cape,Port Alfred,Chatham Street,-33.609084,26.87641                                                                                                   ,
+
+Eastern Cape,Port Alfred,Chowton Close,-33.615576,26.873925                                                                                                   ,
+
+Eastern Cape,Port Alfred,Church Street,-33.580591,26.897308                                                                                                   ,
+
+Eastern Cape,Port Alfred,Club Lane,-33.603349,26.882551                                                                                                       ,
+
+Eastern Cape,Port Alfred,Colegate Road,-33.58902,26.881508                                                                                                    ,
+
+Eastern Cape,Port Alfred,Coombe Lane,-33.588448,26.892242                                                                                                     ,
+
+Eastern Cape,Port Alfred,Cove Lane,-33.601184,26.894274                                                                                                       ,
+
+Eastern Cape,Port Alfred,Cowdrey Close,-33.587543,26.897991                                                                                                   ,
+
+Eastern Cape,Port Alfred,Crane Crescent,-33.587466,26.887602                                                                                                  ,
+
+Eastern Cape,Port Alfred,Cranleigh Close,-33.61591,26.873111                                                                                                  ,
+
+Eastern Cape,Port Alfred,Cronbrook St,-33.603743,26.875667                                                                                                    ,
+
+Eastern Cape,Port Alfred,Croydon Circle,-33.604253,26.876506                                                                                                  ,
+
+Eastern Cape,Port Alfred,Croydon Circle,-33.605665,26.877549                                                                                                  ,
+
+Eastern Cape,Port Alfred,Curlew Crescent,-33.61305,26.88665                                                                                                   ,
+
+Eastern Cape,Port Alfred,Daniel Mgoduka Street,-33.561058,26.896304                                                                                           ,
+
+Eastern Cape,Port Alfred,Deal Place,-33.605569,26.876192                                                                                                      ,
+
+Eastern Cape,Port Alfred,Devlin Close,-33.58741,26.894936                                                                                                     ,
+
+Eastern Cape,Port Alfred,Dickerson Drive,-33.581157,26.893127                                                                                                 ,
+
+Eastern Cape,Port Alfred,Dickerson Drive,-33.582081,26.891726                                                                                                 ,
+
+Eastern Cape,Port Alfred,Dickerson Street,-33.580674,26.896018                                                                                                ,
+
+Eastern Cape,Port Alfred,Dickinson Road,-33.59963,26.884714                                                                                                   ,
+
+Eastern Cape,Port Alfred,Dickinson Road,-33.602022,26.882672                                                                                                  ,
+
+Eastern Cape,Port Alfred,Disa Street,-33.582392,26.892267                                                                                                     ,
+
+Eastern Cape,Port Alfred,Disa Street,-33.583277,26.892227                                                                                                     ,
+
+Eastern Cape,Port Alfred,Dora Moses Street,-33.561075,26.895747                                                                                               ,
+
+Eastern Cape,Port Alfred,Dorking Street,-33.606424,26.876204                                                                                                  ,
+
+Eastern Cape,Port Alfred,Douglas Mgagatha Street,-33.559831,26.897075                                                                                         ,
+
+Eastern Cape,Port Alfred,Douglas Mgagatha Street,-33.560567,26.896351                                                                                         ,
+
+Eastern Cape,Port Alfred,Douglas Mgagatha Street,-33.561365,26.897873                                                                                         ,
+
+Eastern Cape,Port Alfred,Dove Lane 12.59,-33.593471,26.897735                                                                                                 ,
+
+Eastern Cape,Port Alfred,Dover Street,-33.608206,26.876483                                                                                                    ,
+
+Eastern Cape,Port Alfred,Eagle Lane,-33.605996,26.880708                                                                                                      ,
+
+Eastern Cape,Port Alfred,Elliot Lane,-33.588813,26.892054                                                                                                     ,
+
+Eastern Cape,Port Alfred,End Street,-33.587173,26.908774                                                                                                      ,
+
+Eastern Cape,Port Alfred,Evans Lane,-33.589119,26.891747                                                                                                      ,
+
+Eastern Cape,Port Alfred,Fairlie Lane,-33.597224,26.879432                                                                                                    ,
+
+Eastern Cape,Port Alfred,Fairlie Road,-33.599451,26.88292                                                                                                     ,
+
+Eastern Cape,Port Alfred,Falcon Street,-33.602109,26.881292                                                                                                   ,
+
+Eastern Cape,Port Alfred,Farnham Street,-33.613506,26.875333                                                                                                  ,
+
+Eastern Cape,Port Alfred,Fern Street,-33.582711,26.891829                                                                                                     ,
+
+Eastern Cape,Port Alfred,Ferndale Lane,-33.590776,26.893217                                                                                                   ,
+
+Eastern Cape,Port Alfred,Ferndale Road,-33.590818,26.894835                                                                                                   ,
+
+Eastern Cape,Port Alfred,Ferndale Road,-33.591754,26.89541                                                                                                    ,
+
+Eastern Cape,Port Alfred,Fernhurst Close,-33.616521,26.872452                                                                                                 ,
+
+Eastern Cape,Port Alfred,Findon Street,-33.613822,26.874463                                                                                                   ,
+
+Eastern Cape,Port Alfred,Ford Street,-33.580109,26.897027                                                                                                     ,
+
+Eastern Cape,Port Alfred,Forest Hill,-33.607432,26.876384                                                                                                     ,
+
+Eastern Cape,Port Alfred,Frame Lily Road,-33.615483,26.879224                                                                                                 ,
+
+Eastern Cape,Port Alfred,Francolin Road,-33.605522,26.893238                                                                                                  ,
+
+Eastern Cape,Port Alfred,Frankenfeld Place,-33.590696,26.868552                                                                                               ,
+
+Eastern Cape,Port Alfred,Freeman Crescent,-33.583519,26.895247                                                                                                ,
+
+Eastern Cape,Port Alfred,Freeman Crescent,-33.583752,26.896276                                                                                                ,
+
+Eastern Cape,Port Alfred,French Street,-33.591932,26.869829                                                                                                   ,
+
+Eastern Cape,Port Alfred,Fresh Water Road,-33.614317,26.879434                                                                                                ,
+
+Eastern Cape,Port Alfred,Fresh Water Road,-33.615406,26.878482                                                                                                ,
+
+Eastern Cape,Port Alfred,Galphin Close,-33.58778,26.904323                                                                                                    ,
+
+Eastern Cape,Port Alfred,Gannet Road,-33.610576,26.888913                                                                                                     ,
+
+Eastern Cape,Port Alfred,Ganton Close,-33.613331,26.88401                                                                                                     ,
+
+Eastern Cape,Port Alfred,Geerts Lane,-33.587792,26.892774                                                                                                     ,
+
+Eastern Cape,Port Alfred,George Street,-33.594233,26.876701                                                                                                   ,
+
+Eastern Cape,Port Alfred,George Street,-33.595721,26.879098                                                                                                   ,
+
+Eastern Cape,Port Alfred,George Street,-33.598434,26.883547                                                                                                   ,
+
+Eastern Cape,Port Alfred,Gleneagle Drive,-33.60474,26.888043                                                                                                  ,
+
+Eastern Cape,Port Alfred,Gleneagles Drive,-33.604743,26.892861                                                                                                ,
+
+Eastern Cape,Port Alfred,Gleneagles Drive,-33.605318,26.890269                                                                                                ,
+
+Eastern Cape,Port Alfred,Gluckman Roiad,-33.593675,26.885812                                                                                                  ,
+
+Eastern Cape,Port Alfred,Grand Road,-33.600636,26.893219                                                                                                      ,
+
+Eastern Cape,Port Alfred,Green Lane,-33.602525,26.878578                                                                                                      ,
+
+Eastern Cape,Port Alfred,Greenmantle Drive,-33.606087,26.887441                                                                                               ,
+
+Eastern Cape,Port Alfred,Greenmantle Drive,-33.611104,26.887645                                                                                               ,
+
+Eastern Cape,Port Alfred,Greenmantle Drive,-33.61288,26.884032                                                                                                ,
+
+Eastern Cape,Port Alfred,Groenvlei Road,-33.582314,26.898551                                                                                                  ,
+
+Eastern Cape,Port Alfred,Hallier Street,-33.584297,26.905729                                                                                                  ,
+
+Eastern Cape,Port Alfred,Hallier Street,-33.585926,26.911255                                                                                                  ,
+
+Eastern Cape,Port Alfred,Halstead Lane,-33.591415,26.897908                                                                                                   ,
+
+Eastern Cape,Port Alfred,Halstead Road,-33.591137,26.898551                                                                                                   ,
+
+Eastern Cape,Port Alfred,Hards Street,-33.601075,26.890158                                                                                                    ,
+
+Eastern Cape,Port Alfred,Hards Street,-33.602898,26.891383                                                                                                    ,
+
+Eastern Cape,Port Alfred,Hastings Place,-33.615931,26.86962                                                                                                   ,
+
+Eastern Cape,Port Alfred,Hastings Place,-33.616035,26.869151                                                                                                  ,
+
+Eastern Cape,Port Alfred,Havelock Street 18.89M,-33.591711,26.868366                                                                                          ,
+
+Eastern Cape,Port Alfred,Henry Nourse Street,-33.604318,26.881839                                                                                             ,
+
+Eastern Cape,Port Alfred,Henry St.,-33.593001,26.875682                                                                                                       ,
+
+Eastern Cape,Port Alfred,Henry Street,-33.593916,26.874727                                                                                                    ,
+
+Eastern Cape,Port Alfred,Henry Street,-33.596054,26.872824                                                                                                    ,
+
+Eastern Cape,Port Alfred,Heron Street,-33.599515,26.87981                                                                                                     ,
+
+Eastern Cape,Port Alfred,Heron Street,-33.601373,26.879914                                                                                                    ,
+
+Eastern Cape,Port Alfred,Hewson Lane,-33.589775,26.891171                                                                                                     ,
+
+Eastern Cape,Port Alfred,High Level Road,-33.591499,26.864839                                                                                                 ,
+
+Eastern Cape,Port Alfred,High Street,-33.587454,26.907591                                                                                                     ,
+
+Eastern Cape,Port Alfred,High Street,-33.590641,26.901905                                                                                                     ,
+
+Eastern Cape,Port Alfred,Hill Street,-33.597414,26.880372                                                                                                     ,
+
+Eastern Cape,Port Alfred,Hilpert Road,-33.582278,26.89737                                                                                                     ,
+
+Eastern Cape,Port Alfred,Hirtzel Road,-33.600832,26.894296                                                                                                    ,
+
+Eastern Cape,Port Alfred,Hockey Road,-33.591661,26.901473                                                                                                     ,
+
+Eastern Cape,Port Alfred,Hockey Road,-33.59243,26.900365                                                                                                      ,
+
+Eastern Cape,Port Alfred,Holloway Ave.,-33.58051,26.893874                                                                                                    ,
+
+Eastern Cape,Port Alfred,Holloway Avenue,-33.57959,26.895806                                                                                                  ,
+
+Eastern Cape,Port Alfred,Holloway Avenue,-33.5801,26.894326                                                                                                   ,
+
+Eastern Cape,Port Alfred,Hornbill Lane,-33.590562,26.890909                                                                                                   ,
+
+Eastern Cape,Port Alfred,Horndean Street,-33.614382,26.873568                                                                                                 ,
+
+Eastern Cape,Port Alfred,Horton Road,-33.587058,26.900386                                                                                                     ,
+
+Eastern Cape,Port Alfred,Hove Street,-33.614586,26.872742                                                                                                     ,
+
+Eastern Cape,Port Alfred,Ing'ang'ane Street,-33.557596,26.89516                                                                                               ,
+
+Eastern Cape,Port Alfred,Jack's Close,-33.589128,26.8945                                                                                                      ,
+
+Eastern Cape,Port Alfred,Keey Road,-33.602316,26.883063                                                                                                       ,
+
+Eastern Cape,Port Alfred,Keey Street,-33.598074,26.876196                                                                                                     ,
+
+Eastern Cape,Port Alfred,Kelly Lane,-33.595618,26.880575                                                                                                      ,
+
+Eastern Cape,Port Alfred,Khozi Street,-33.557684,26.898769                                                                                                    ,
+
+Eastern Cape,Port Alfred,Khwalimanji Street,-33.557667,26.89672                                                                                               ,
+
+Eastern Cape,Port Alfred,Khwalimanji Street,-33.559117,26.89736                                                                                               ,
+
+Eastern Cape,Port Alfred,Kingfished Road,-33.611499,26.888877                                                                                                 ,
+
+Eastern Cape,Port Alfred,Kivido Road,-33.58086,26.897939                                                                                                      ,
+
+Eastern Cape,Port Alfred,Kivido Road,-33.581864,26.892525                                                                                                     ,
+
+Eastern Cape,Port Alfred,Kivido Road,-33.582716,26.894486                                                                                                     ,
+
+Eastern Cape,Port Alfred,Kowie Street,-33.586041,26.903511                                                                                                    ,
+
+Eastern Cape,Port Alfred,Lambert Road,-33.603794,26.880231                                                                                                    ,
+
+Eastern Cape,Port Alfred,Lancaster Lane,-33.589455,26.896425                                                                                                  ,
+
+Eastern Cape,Port Alfred,Lancaster Lane,-33.589576,26.894513                                                                                                  ,
+
+Eastern Cape,Port Alfred,Lancing Street,-33.615083,26.871866                                                                                                  ,
+
+Eastern Cape,Port Alfred,Lelie Street,-33.583694,26.892182                                                                                                    ,
+
+Eastern Cape,Port Alfred,Lewis Street,-33.615524,26.870978                                                                                                    ,
+
+Eastern Cape,Port Alfred,Liebowitz Lane,-33.587107,26.893293                                                                                                  ,
+
+Eastern Cape,Port Alfred,Link Road,-33.589825,26.867616                                                                                                       ,
+
+Eastern Cape,Port Alfred,Link Road,-33.590575,26.866903                                                                                                       ,
+
+Eastern Cape,Port Alfred,Link Road,-33.591033,26.866461                                                                                                       ,
+
+Eastern Cape,Port Alfred,Links Road,-33.601708,26.884922                                                                                                      ,
+
+Eastern Cape,Port Alfred,Lloyd Lane,-33.595635,26.872522                                                                                                      ,
+
+Eastern Cape,Port Alfred,Loeries Road,-33.606348,26.891491                                                                                                    ,
+
+Eastern Cape,Port Alfred,Main Road,-33.578995,26.895453                                                                                                       ,
+
+Eastern Cape,Port Alfred,Main Road,-33.590806,26.889513                                                                                                       ,
+
+Eastern Cape,Port Alfred,Main Road,-33.59264,26.895059                                                                                                        ,
+
+Eastern Cape,Port Alfred,Main Street,-33.592307,26.88484                                                                                                      ,
+
+Eastern Cape,Port Alfred,Malgas Road,-33.581413,26.898039                                                                                                     ,
+
+Eastern Cape,Port Alfred,Masonic Steet,-33.58954,26.881694                                                                                                    ,
+
+Eastern Cape,Port Alfred,Masonic Steet,-33.592322,26.884269                                                                                                   ,
+
+Eastern Cape,Port Alfred,Medolino Lane,-33.602316,26.888457                                                                                                   ,
+
+Eastern Cape,Port Alfred,Merlin Drive,-33.5951,26.875092                                                                                                      ,
+
+Eastern Cape,Port Alfred,Mgwenye Street,-33.562086,26.896252                                                                                                  ,
+
+Eastern Cape,Port Alfred,Mgwenye Street,-33.562865,26.895262                                                                                                  ,
+
+Eastern Cape,Port Alfred,Mgwenye Street,-33.562923,26.895489                                                                                                  ,
+
+Eastern Cape,Port Alfred,Mgwenye Street,-33.564967,26.89589                                                                                                   ,
+
+Eastern Cape,Port Alfred,Miles Street,-33.593295,26.877973                                                                                                    ,
+
+Eastern Cape,Port Alfred,Miles Street,-33.594517,26.879974                                                                                                    ,
+
+Eastern Cape,Port Alfred,Milkwood Avenue,-33.607884,26.889311                                                                                                 ,
+
+Eastern Cape,Port Alfred,Mission Street,-33.598243,26.882106                                                                                                  ,
+
+Eastern Cape,Port Alfred,Moodie Avenue,-33.58753,26.896843                                                                                                    ,
+
+Eastern Cape,Port Alfred,Mqokolo Street,-33.563991,26.895988                                                                                                  ,
+
+Eastern Cape,Port Alfred,Muirfield Avenue,-33.606239,26.889274                                                                                                ,
+
+Eastern Cape,Port Alfred,Muisvogel Road,-33.583539,26.892761                                                                                                  ,
+
+Eastern Cape,Port Alfred,Muisvogel Road,-33.587398,26.888976                                                                                                  ,
+
+Eastern Cape,Port Alfred,Muller Drive,-33.600487,26.891502                                                                                                    ,
+
+Eastern Cape,Port Alfred,Muller Drive,-33.602391,26.892621                                                                                                    ,
+
+Eastern Cape,Port Alfred,Mzuvukile Mkrakra Street,-33.560508,26.895045                                                                                        ,
+
+Eastern Cape,Port Alfred,Mzuvukile Mkrakra Street,-33.561597,26.896503                                                                                        ,
+
+Eastern Cape,Port Alfred,Nel Lane,-33.586774,26.893573                                                                                                        ,
+
+Eastern Cape,Port Alfred,Nelson Road,-33.582156,26.897794                                                                                                     ,
+
+Eastern Cape,Port Alfred,Ngxangxosi Street,-33.556492,26.900707                                                                                               ,
+
+Eastern Cape,Port Alfred,Nohenke Street,-33.558178,26.895506                                                                                                  ,
+
+Eastern Cape,Port Alfred,Nohenke Street,-33.559065,26.89623                                                                                                   ,
+
+Eastern Cape,Port Alfred,North Street,-33.585338,26.906644                                                                                                    ,
+
+Eastern Cape,Port Alfred,North Street,-33.587389,26.903417                                                                                                    ,
+
+Eastern Cape,Port Alfred,Nosithile Manengane Street,-33.560721,26.89774                                                                                       ,
+
+Eastern Cape,Port Alfred,Ntikwana Street,-33.55746,26.897767                                                                                                  ,
+
+Eastern Cape,Port Alfred,Ntunzi Steet,-33.563069,26.89626                                                                                                     ,
+
+Eastern Cape,Port Alfred,Nximfa Street,-33.563548,26.896106                                                                                                   ,
+
+Eastern Cape,Port Alfred,Ocean View Lane,-33.596286,26.901266                                                                                                 ,
+
+Eastern Cape,Port Alfred,Ocean View Place,-33.592022,26.864277                                                                                                ,
+
+Eastern Cape,Port Alfred,Oriole Road,-33.602669,26.89632                                                                                                      ,
+
+Eastern Cape,Port Alfred,Orpen Lane,-33.589589,26.891759                                                                                                      ,
+
+Eastern Cape,Port Alfred,Park Avenue,-33.589965,26.899336                                                                                                     ,
+
+Eastern Cape,Port Alfred,Park Road,-33.590544,26.897053                                                                                                       ,
+
+Eastern Cape,Port Alfred,Park Road,-33.590872,26.896298                                                                                                       ,
+
+Eastern Cape,Port Alfred,Penrith Close,-33.613619,26.882903                                                                                                   ,
+
+Eastern Cape,Port Alfred,Phindile Nyathela Street,-33.562738,26.897571                                                                                        ,
+
+Eastern Cape,Port Alfred,Pike Lane,-33.592749,26.877914                                                                                                       ,
+
+Eastern Cape,Port Alfred,Pike Lane,-33.593403,26.877231                                                                                                       ,
+
+Eastern Cape,Port Alfred,Pirie Lane,-33.593112,26.87656                                                                                                       ,
+
+Eastern Cape,Port Alfred,Plantation Road,-33.591825,26.866963                                                                                                 ,
+
+Eastern Cape,Port Alfred,Plover Street,-33.600692,26.881712                                                                                                   ,
+
+Eastern Cape,Port Alfred,Port Francis Crescent,-33.591564,26.902                                                                                              ,
+
+Eastern Cape,Port Alfred,Porter Lane,-33.592042,26.878531                                                                                                     ,
+
+Eastern Cape,Port Alfred,Porter Street,-33.592166,26.879416                                                                                                   ,
+
+Eastern Cape,Port Alfred,Preston Lane,-33.59013,26.890948                                                                                                     ,
+
+Eastern Cape,Port Alfred,Prince's Avenue,-33.601551,26.888089                                                                                                 ,
+
+Eastern Cape,Port Alfred,Prospect Street,-33.589769,26.905605                                                                                                 ,
+
+Eastern Cape,Port Alfred,Protea Street,-33.584254,26.892969                                                                                                   ,
+
+Eastern Cape,Port Alfred,Putt Road,-33.591998,26.902508                                                                                                       ,
+
+Eastern Cape,Port Alfred,Putt Road,-33.592893,26.900721                                                                                                       ,
+
+Eastern Cape,Port Alfred,Riverside Drive,-33.590904,26.880389                                                                                                 ,
+
+Eastern Cape,Port Alfred,Riverside Drive,-33.590959,26.878997                                                                                                 ,
+
+Eastern Cape,Port Alfred,Robertson Road,-33.597972,26.885014                                                                                                  ,
+
+Eastern Cape,Port Alfred,Saltvlei Road,-33.604915,26.882814                                                                                                   ,
+
+Eastern Cape,Port Alfred,Saltvlei Road,-33.608101,26.879762                                                                                                   ,
+
+Eastern Cape,Port Alfred,Saltvlei Road,-33.610483,26.879451                                                                                                   ,
+
+Eastern Cape,Port Alfred,Saltvlei Road,-33.613936,26.880568                                                                                                   ,
+
+Eastern Cape,Port Alfred,Scheepers Street,-33.583169,26.895864                                                                                                ,
+
+Eastern Cape,Port Alfred,Seaford Street,-33.609926,26.876866                                                                                                  ,
+
+Eastern Cape,Port Alfred,Seaview Terrace,-33.589191,26.906387                                                                                                 ,
+
+Eastern Cape,Port Alfred,September Street,-33.582655,26.8964                                                                                                  ,
+
+Eastern Cape,Port Alfred,Seringa Square,-33.596248,26.878412                                                                                                  ,
+
+Eastern Cape,Port Alfred,Seringa Square,-33.596793,26.877903                                                                                                  ,
+
+Eastern Cape,Port Alfred,Seringa Square,-33.596806,26.878638                                                                                                  ,
+
+Eastern Cape,Port Alfred,Settlers Way,-33.592537,26.882538                                                                                                    ,
+
+Eastern Cape,Port Alfred,Settlers Way,-33.594404,26.88398                                                                                                     ,
+
+Eastern Cape,Port Alfred,Sevenoaks Street,-33.610591,26.876161                                                                                                ,
+
+Eastern Cape,Port Alfred,Sheila's Place,-33.592665,26.871832                                                                                                  ,
+
+Eastern Cape,Port Alfred,Sheila's Place,-33.592812,26.871257                                                                                                  ,
+
+Eastern Cape,Port Alfred,Shelly Beach Road,-33.612231,26.887174                                                                                               ,
+
+Eastern Cape,Port Alfred,Smith Road,-33.597767,26.889147                                                                                                      ,
+
+Eastern Cape,Port Alfred,Smith Street,-33.59943,26.886324                                                                                                     ,
+
+Eastern Cape,Port Alfred,Snelgar Lane,-33.59106,26.890897                                                                                                     ,
+
+Eastern Cape,Port Alfred,South Downs Avenue,-33.614097,26.877506                                                                                              ,
+
+Eastern Cape,Port Alfred,South Downs Avenue,-33.616004,26.87246                                                                                               ,
+
+Eastern Cape,Port Alfred,Southwell Road,-33.595346,26.877786                                                                                                  ,
+
+Eastern Cape,Port Alfred,Sports Road,-33.592842,26.896106                                                                                                     ,
+
+Eastern Cape,Port Alfred,Sports Road,-33.593952,26.897681                                                                                                     ,
+
+Eastern Cape,Port Alfred,St. Andrew's Road,-33.602773,26.886271                                                                                               ,
+
+Eastern Cape,Port Alfred,Stanley Reed Avenue,-33.592294,26.865564                                                                                             ,
+
+Eastern Cape,Port Alfred,Stewart Road,-33.600889,26.888397                                                                                                    ,
+
+Eastern Cape,Port Alfred,Stocks Avenue,-33.591578,26.879508                                                                                                   ,
+
+Eastern Cape,Port Alfred,Strand Street,-33.590476,26.90468                                                                                                    ,
+
+Eastern Cape,Port Alfred,Sunningdale Road,-33.614127,26.882365                                                                                                ,
+
+Eastern Cape,Port Alfred,Swan Lane,-33.592104,26.896377                                                                                                       ,
+
+Eastern Cape,Port Alfred,Tamarisk Road,-33.596272,26.877722                                                                                                   ,
+
+Eastern Cape,Port Alfred,Tern Street,-33.600779,26.880646                                                                                                     ,
+
+Eastern Cape,Port Alfred,Thalassa Road,-33.609033,26.888599                                                                                                   ,
+
+Eastern Cape,Port Alfred,Thamsanqa Maceba Street,-33.56025,26.896706                                                                                          ,
+
+Eastern Cape,Port Alfred,The River Road 10.00M,-33.589446,26.867284                                                                                           ,
+
+Eastern Cape,Port Alfred,The River Road,-33.590318,26.868561                                                                                                  ,
+
+Eastern Cape,Port Alfred,Thomas Pearce Lane,-33.595316,26.879997                                                                                              ,
+
+Eastern Cape,Port Alfred,Thongothi Street,-33.562581,26.89625                                                                                                 ,
+
+Eastern Cape,Port Alfred,Trevor Reed,-33.59064,26.866537                                                                                                      ,
+
+Eastern Cape,Port Alfred,Troon Crescent,-33.60724,26.888837                                                                                                   ,
+
+Eastern Cape,Port Alfred,Tulip Street,-33.583595,26.891074                                                                                                    ,
+
+Eastern Cape,Port Alfred,Tuna Road,-33.59709,26.874633                                                                                                        ,
+
+Eastern Cape,Port Alfred,Van Der Riet Street,-33.588342,26.883137                                                                                             ,
+
+Eastern Cape,Port Alfred,Van Der Riet Street,-33.590962,26.885697                                                                                             ,
+
+Eastern Cape,Port Alfred,Van Riebeek Street,-33.599235,26.875862                                                                                              ,
+
+Eastern Cape,Port Alfred,Victor Reed Place,-33.590221,26.86807                                                                                                ,
+
+Eastern Cape,Port Alfred,Victoria Close,-33.591118,26.897374                                                                                                  ,
+
+Eastern Cape,Port Alfred,Viwe Ntamo Street,-33.560439,26.896147                                                                                               ,
+
+Eastern Cape,Port Alfred,Vroom Road,-33.602166,26.887572                                                                                                      ,
+
+Eastern Cape,Port Alfred,Weald Avenue,-33.616045,26.870126                                                                                                    ,
+
+Eastern Cape,Port Alfred,Weald Avenue,-33.617248,26.87082                                                                                                     ,
+
+Eastern Cape,Port Alfred,Wesley Jill,-33.598707,26.890383                                                                                                     ,
+
+Eastern Cape,Port Alfred,West Beach Drive,-33.604384,26.897116                                                                                                ,
+
+Eastern Cape,Port Alfred,West Beach Drive,-33.608238,26.890844                                                                                                ,
+
+Eastern Cape,Port Alfred,West Beach Drive,-33.613235,26.887926                                                                                                ,
+
+Eastern Cape,Port Alfred,West Beach Drive,-33.614434,26.883509                                                                                                ,
+
+Eastern Cape,Port Alfred,West Road,-33.590462,26.883448                                                                                                       ,
+
+Eastern Cape,Port Alfred,Westcliff Lane,-33.597748,26.88685                                                                                                   ,
+
+Eastern Cape,Port Alfred,Wharf Street,-33.590107,26.887043                                                                                                    ,
+
+Eastern Cape,Port Alfred,William Cock Road,-33.590609,26.903144                                                                                               ,
+
+Eastern Cape,Port Alfred,William Cock Road,-33.590998,26.903857                                                                                               ,
+
+Eastern Cape,Port Alfred,William Reed Road,-33.593081,26.866077                                                                                               ,
+
+Eastern Cape,Port Alfred,Wm Pearce Road,-33.595723,26.875933                                                                                                  ,
+
+Eastern Cape,Port Alfred,Wood Street,-33.584915,26.899782                                                                                                     ,
+
+Eastern Cape,Port Alfred,Wood Street,-33.586835,26.902512                                                                                                     ,
+
+Eastern Cape,Port Alfred,Wootton Lane,-33.588063,26.892414                                                                                                    ,
+
+Eastern Cape,Port Alfred,Xolile Maneli Street,-33.558508,26.898263                                                                                            ,
+
+Eastern Cape,Port Alfred,Xolile Maneli Street,-33.561553,26.897077                                                                                            ,
+
+Eastern Cape,Port Alfred,York Road,-33.588453,26.8966     
+Eastern Cape,Grahamstown,' Avenue,-33.287883,26.538149                                                                                                        ,
+
+Eastern Cape,Grahamstown,1 E5,-33.301538,26.520235                                                                                                            ,
+
+Eastern Cape,Grahamstown,10 E5,-33.304077,26.521485                                                                                                           ,
+
+Eastern Cape,Grahamstown,10 F5,-33.313931,26.527415                                                                                                           ,
+
+Eastern Cape,Grahamstown,10,-33.308887,26.53348                                                                                                               ,
+
+Eastern Cape,Grahamstown,10,-33.309214,26.532403                                                                                                              ,
+
+Eastern Cape,Grahamstown,11 F5,-33.313275,26.528888                                                                                                           ,
+
+Eastern Cape,Grahamstown,11Th,-33.287,26.539283                                                                                                               ,
+
+Eastern Cape,Grahamstown,11Th,-33.287537,26.53855                                                                                                             ,
+
+Eastern Cape,Grahamstown,12 E5,-33.307496,26.51777                                                                                                            ,
+
+Eastern Cape,Grahamstown,12 F5,-33.315006,26.529997                                                                                                           ,
+
+Eastern Cape,Grahamstown,12.59,-33.292343,26.534431                                                                                                           ,
+
+Eastern Cape,Grahamstown,12.59,-33.293125,26.5356                                                                                                             ,
+
+Eastern Cape,Grahamstown,12.59,-33.293351,26.536322                                                                                                           ,
+
+Eastern Cape,Grahamstown,12.59,-33.293843,26.536019                                                                                                           ,
+
+Eastern Cape,Grahamstown,12.59,-33.293917,26.536767                                                                                                           ,
+
+Eastern Cape,Grahamstown,12.59,-33.29773,26.538094                                                                                                            ,
+
+Eastern Cape,Grahamstown,12.59,-33.299889,26.540233                                                                                                           ,
+
+Eastern Cape,Grahamstown,13 F5,-33.315706,26.528634                                                                                                           ,
+
+Eastern Cape,Grahamstown,13,-33.288196,26.534532                                                                                                              ,
+
+Eastern Cape,Grahamstown,13,-33.288718,26.535103                                                                                                              ,
+
+Eastern Cape,Grahamstown,13,-33.313315,26.541026                                                                                                              ,
+
+Eastern Cape,Grahamstown,13,-33.313916,26.539577                                                                                                              ,
+
+Eastern Cape,Grahamstown,13,-33.314328,26.540917                                                                                                              ,
+
+Eastern Cape,Grahamstown,14 F5,-33.316282,26.529184                                                                                                           ,
+
+Eastern Cape,Grahamstown,15 F5,-33.31607,26.530845                                                                                                            ,
+
+Eastern Cape,Grahamstown,15.11,-33.29749,26.538337                                                                                                            ,
+
+Eastern Cape,Grahamstown,15.74,-33.295896,26.515177                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.296561,26.52977                                                                                                            ,
+
+Eastern Cape,Grahamstown,15.74,-33.29748,26.519277                                                                                                            ,
+
+Eastern Cape,Grahamstown,15.74,-33.297547,26.516024                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.297698,26.518732                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.298087,26.519747                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.298994,26.519272                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.299401,26.539275                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.299889,26.516478                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.299972,26.538625                                                                                                           ,
+
+Eastern Cape,Grahamstown,15.74,-33.301271,26.539438                                                                                                           ,
+
+Eastern Cape,Grahamstown,17 F5,-33.317021,26.533046                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.294988,26.515712                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.295093,26.519342                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.295626,26.51746                                                                                                            ,
+
+Eastern Cape,Grahamstown,18.89,-33.295887,26.516558                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.296227,26.513437                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.296674,26.531649                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.296831,26.533004                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.297012,26.516851                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.297371,26.535729                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.29801,26.536191                                                                                                            ,
+
+Eastern Cape,Grahamstown,18.89,-33.29921,26.515318                                                                                                            ,
+
+Eastern Cape,Grahamstown,18.89,-33.299727,26.517683                                                                                                           ,
+
+Eastern Cape,Grahamstown,18.89,-33.300713,26.53464                                                                                                            ,
+
+Eastern Cape,Grahamstown,18.89,-33.301932,26.529621                                                                                                           ,
+
+Eastern Cape,Grahamstown,1St,-33.287416,26.534053                                                                                                             ,
+
+Eastern Cape,Grahamstown,1St,-33.288217,26.534139                                                                                                             ,
+
+Eastern Cape,Grahamstown,2 E5,-33.302982,26.522335                                                                                                            ,
+
+Eastern Cape,Grahamstown,20,-33.293331,26.514274                                                                                                              ,
+
+Eastern Cape,Grahamstown,20,-33.29455,26.51739                                                                                                                ,
+
+Eastern Cape,Grahamstown,20,-33.308705,26.491564                                                                                                              ,
+
+Eastern Cape,Grahamstown,21 F5,-33.316722,26.534123                                                                                                           ,
+
+Eastern Cape,Grahamstown,22.04,-33.302717,26.523692                                                                                                           ,
+
+Eastern Cape,Grahamstown,23.3,-33.297076,26.529508                                                                                                            ,
+
+Eastern Cape,Grahamstown,23.56,-33.296468,26.530995                                                                                                           ,
+
+Eastern Cape,Grahamstown,23.61,-33.295381,26.533642                                                                                                           ,
+
+Eastern Cape,Grahamstown,23.61,-33.295632,26.531148                                                                                                           ,
+
+Eastern Cape,Grahamstown,23.61,-33.296053,26.526127                                                                                                           ,
+
+Eastern Cape,Grahamstown,23.61,-33.298431,26.52881                                                                                                            ,
+
+Eastern Cape,Grahamstown,23.61,-33.299284,26.527                                                                                                              ,
+
+Eastern Cape,Grahamstown,25 F5,-33.31313,26.536368                                                                                                            ,
+
+Eastern Cape,Grahamstown,25.19,-33.303596,26.529788                                                                                                           ,
+
+Eastern Cape,Grahamstown,25.19,-33.304019,26.528198                                                                                                           ,
+
+Eastern Cape,Grahamstown,26 E5,-33.300449,26.532415                                                                                                           ,
+
+Eastern Cape,Grahamstown,28 E5,-33.310695,26.529491                                                                                                           ,
+
+Eastern Cape,Grahamstown,29 E5,-33.312337,26.530715                                                                                                           ,
+
+Eastern Cape,Grahamstown,2Nd,-33.287463,26.534578                                                                                                             ,
+
+Eastern Cape,Grahamstown,2Nd,-33.288736,26.534703                                                                                                             ,
+
+Eastern Cape,Grahamstown,30,-33.298971,26.499481                                                                                                              ,
+
+Eastern Cape,Grahamstown,30,-33.300662,26.500019                                                                                                              ,
+
+Eastern Cape,Grahamstown,30,-33.302099,26.50021                                                                                                               ,
+
+Eastern Cape,Grahamstown,30,-33.302837,26.499708                                                                                                              ,
+
+Eastern Cape,Grahamstown,30,-33.303653,26.490563                                                                                                              ,
+
+Eastern Cape,Grahamstown,30,-33.304185,26.49113                                                                                                               ,
+
+Eastern Cape,Grahamstown,30,-33.304442,26.496781                                                                                                              ,
+
+Eastern Cape,Grahamstown,30,-33.306203,26.49271                                                                                                               ,
+
+Eastern Cape,Grahamstown,30,-33.306863,26.490406                                                                                                              ,
+
+Eastern Cape,Grahamstown,31.49,-33.296274,26.534161                                                                                                           ,
+
+Eastern Cape,Grahamstown,31.49,-33.301873,26.524586                                                                                                           ,
+
+Eastern Cape,Grahamstown,3Rd,-33.287586,26.535113                                                                                                             ,
+
+Eastern Cape,Grahamstown,41 E5,-33.309756,26.524082                                                                                                           ,
+
+Eastern Cape,Grahamstown,44 E5,-33.311611,26.527552                                                                                                           ,
+
+Eastern Cape,Grahamstown,48 E5,-33.31132,26.532702                                                                                                            ,
+
+Eastern Cape,Grahamstown,4Th,-33.287547,26.535632                                                                                                             ,
+
+Eastern Cape,Grahamstown,5 E5,-33.300452,26.527762                                                                                                            ,
+
+Eastern Cape,Grahamstown,50 E5,-33.312027,26.535566                                                                                                           ,
+
+Eastern Cape,Grahamstown,53 E5,-33.30144,26.530808                                                                                                            ,
+
+Eastern Cape,Grahamstown,59 E5,-33.302001,26.536411                                                                                                           ,
+
+Eastern Cape,Grahamstown,5Th,-33.287512,26.536165                                                                                                             ,
+
+Eastern Cape,Grahamstown,6 F5,-33.315695,26.536046                                                                                                            ,
+
+Eastern Cape,Grahamstown,6.3,-33.298296,26.527502                                                                                                             ,
+
+Eastern Cape,Grahamstown,6.3,-33.29886,26.537283                                                                                                              ,
+
+Eastern Cape,Grahamstown,63 E5,-33.309537,26.519592                                                                                                           ,
+
+Eastern Cape,Grahamstown,6Th,-33.287497,26.536684                                                                                                             ,
+
+Eastern Cape,Grahamstown,7Th,-33.287212,26.53718                                                                                                              ,
+
+Eastern Cape,Grahamstown,8 F5,-33.312893,26.53407                                                                                                             ,
+
+Eastern Cape,Grahamstown,8,-33.309332,26.532769                                                                                                               ,
+
+Eastern Cape,Grahamstown,8Th,-33.287186,26.537719                                                                                                             ,
+
+Eastern Cape,Grahamstown,9.45,-33.297968,26.537677                                                                                                            ,
+
+Eastern Cape,Grahamstown,9.5,-33.298343,26.539692                                                                                                             ,
+
+Eastern Cape,Grahamstown,9.5,-33.298451,26.539139                                                                                                             ,
+
+Eastern Cape,Grahamstown,9.6,-33.308168,26.536886                                                                                                             ,
+
+Eastern Cape,Grahamstown,9Th,-33.287126,26.538234                                                                                                             ,
+
+Eastern Cape,Grahamstown,African Street,-33.306339,26.525789                                                                                                  ,
+
+Eastern Cape,Grahamstown,African Street,-33.307829,26.522884                                                                                                  ,
+
+Eastern Cape,Grahamstown,African Street,-33.311985,26.514027                                                                                                  ,
+
+Eastern Cape,Grahamstown,Africanstraat,-33.310449,26.51722                                                                                                    ,
+
+Eastern Cape,Grahamstown,Aikenstraat 9.45,-33.300307,26.539956                                                                                                ,
+
+Eastern Cape,Grahamstown,Aikenstraat,-33.29719,26.539471                                                                                                      ,
+
+Eastern Cape,Grahamstown,Albanystraat,-33.302277,26.536257                                                                                                    ,
+
+Eastern Cape,Grahamstown,Albanyweg,-33.295288,26.538083                                                                                                       ,
+
+Eastern Cape,Grahamstown,Albanyweg,-33.299651,26.537749                                                                                                       ,
+
+Eastern Cape,Grahamstown,Alby M.F.Bls163-,-33.325185,26.546543                                                                                                ,
+
+Eastern Cape,Grahamstown,Alby.M.F.Pg.163-171,-33.290448,26.590097                                                                                             ,
+
+Eastern Cape,Grahamstown,Alby.M.F.Pg.208,-33.282227,26.588852                                                                                                 ,
+
+Eastern Cape,Grahamstown,Alfredstraat,-33.312282,26.519004                                                                                                    ,
+
+Eastern Cape,Grahamstown,Allenstraat,-33.30956,26.521261                                                                                                      ,
+
+Eastern Cape,Grahamstown,Anderson Street,-33.307122,26.531189                                                                                                 ,
+
+Eastern Cape,Grahamstown,Andrew Heemroweg,-33.292172,26.536203                                                                                                ,
+
+Eastern Cape,Grahamstown,Anglo African Street,-33.310299,26.525014                                                                                            ,
+
+Eastern Cape,Grahamstown,Armitageslot,-33.31418,26.537873                                                                                                     ,
+
+Eastern Cape,Grahamstown,Arnecourtslot,-33.319514,26.53954                                                                                                    ,
+
+Eastern Cape,Grahamstown,Atherstone,-33.314127,26.541668                                                                                                      ,
+
+Eastern Cape,Grahamstown,Aubreystraat 9.45,-33.301058,26.540051                                                                                               ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287174,26.539296                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.28719,26.53877                                                                                                            ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287369,26.538254                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287519,26.538826                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287559,26.537749                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287568,26.537222                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287664,26.534068                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.287937,26.534615                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288139,26.536745                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288139,26.537576                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288166,26.536219                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.2882,26.535685                                                                                                            ,
+
+Eastern Cape,Grahamstown,Avenue,-33.28821,26.53433                                                                                                            ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288218,26.535165                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288491,26.537074                                                                                                          ,
+
+Eastern Cape,Grahamstown,Avenue,-33.288726,26.534891                                                                                                          ,
+
+Eastern Cape,Grahamstown,Ayliff,-33.299821,26.531116                                                                                                          ,
+
+Eastern Cape,Grahamstown,Ayliff,-33.30303,26.530544                                                                                                           ,
+
+Eastern Cape,Grahamstown,Baillie,-33.308877,26.532592                                                                                                         ,
+
+Eastern Cape,Grahamstown,Bartholomew Street,-33.314113,26.530637                                                                                              ,
+
+Eastern Cape,Grahamstown,Bath,-33.29869,26.519639                                                                                                             ,
+
+Eastern Cape,Grahamstown,Bath,-33.298832,26.518139                                                                                                            ,
+
+Eastern Cape,Grahamstown,Bathurst Street,-33.311332,26.529934                                                                                                 ,
+
+Eastern Cape,Grahamstown,Bathurst Street,-33.31366,26.531553                                                                                                  ,
+
+Eastern Cape,Grahamstown,Beadle Street,-33.316774,26.529872                                                                                                   ,
+
+Eastern Cape,Grahamstown,Beaufort Street,-33.311725,26.531983                                                                                                 ,
+
+Eastern Cape,Grahamstown,Beaufort Street,-33.314447,26.526563                                                                                                 ,
+
+Eastern Cape,Grahamstown,Beaufortstraat,-33.309509,26.53622                                                                                                   ,
+
+Eastern Cape,Grahamstown,Bedford Street 12.59,-33.305448,26.511617                                                                                            ,
+
+Eastern Cape,Grahamstown,Bedford Street,-33.306123,26.514135                                                                                                  ,
+
+Eastern Cape,Grahamstown,Bennet Street,-33.300243,26.521555                                                                                                   ,
+
+Eastern Cape,Grahamstown,Berthastraat,-33.313874,26.540843                                                                                                    ,
+
+Eastern Cape,Grahamstown,Berthastraat,-33.314382,26.540186                                                                                                    ,
+
+Eastern Cape,Grahamstown,Bertramstraat,-33.311017,26.523121                                                                                                   ,
+
+Eastern Cape,Grahamstown,Blackbeardstraat,-33.297304,26.538907                                                                                                ,
+
+Eastern Cape,Grahamstown,Blackbeardstraat,-33.300432,26.539356                                                                                                ,
+
+Eastern Cape,Grahamstown,Blaine Street,-33.315769,26.527921                                                                                                   ,
+
+Eastern Cape,Grahamstown,Bondstraat 15.74,-33.308636,26.506903                                                                                                ,
+
+Eastern Cape,Grahamstown,Bondstraat,-33.309787,26.505356                                                                                                      ,
+
+Eastern Cape,Grahamstown,Bowker,-33.290217,26.532219                                                                                                          ,
+
+Eastern Cape,Grahamstown,Bowkerstraat,-33.293476,26.534424                                                                                                    ,
+
+Eastern Cape,Grahamstown,Bowlers Close,-33.305157,26.52728                                                                                                    ,
+
+Eastern Cape,Grahamstown,Bowles Street 15.74,-33.309054,26.508967                                                                                             ,
+
+Eastern Cape,Grahamstown,Burke Close,-33.292505,26.526117                                                                                                     ,
+
+Eastern Cape,Grahamstown,Burton Street,-33.304661,26.529619                                                                                                   ,
+
+Eastern Cape,Grahamstown,Caldecott Street,-33.305693,26.530054                                                                                                ,
+
+Eastern Cape,Grahamstown,Calvertstraat 10.00,-33.302253,26.539507                                                                                             ,
+
+Eastern Cape,Grahamstown,Campbell,-33.309382,26.530383                                                                                                        ,
+
+Eastern Cape,Grahamstown,Carlisle Street,-33.306872,26.526744                                                                                                 ,
+
+Eastern Cape,Grahamstown,Carnarvon,-33.300365,26.531517                                                                                                       ,
+
+Eastern Cape,Grahamstown,Carnarvonstraat,-33.300591,26.533619                                                                                                 ,
+
+Eastern Cape,Grahamstown,Caroline Close,-33.299748,26.522562                                                                                                  ,
+
+Eastern Cape,Grahamstown,Cartwright Avenue 15.74,-33.306679,26.50972                                                                                          ,
+
+Eastern Cape,Grahamstown,Cathcart Street,-33.316297,26.532577                                                                                                 ,
+
+Eastern Cape,Grahamstown,Cathcartstraat,-33.317517,26.53353                                                                                                   ,
+
+Eastern Cape,Grahamstown,Cawood Street,-33.306086,26.528138                                                                                                   ,
+
+Eastern Cape,Grahamstown,Chapel Street,-33.310265,26.531965                                                                                                   ,
+
+Eastern Cape,Grahamstown,Chapmanstraat,-33.289389,26.521459                                                                                                   ,
+
+Eastern Cape,Grahamstown,Charles,-33.303417,26.526368                                                                                                         ,
+
+Eastern Cape,Grahamstown,Chase Street,-33.314447,26.532647                                                                                                    ,
+
+Eastern Cape,Grahamstown,Cheddar,-33.295001,26.509867                                                                                                         ,
+
+Eastern Cape,Grahamstown,Church,-33.309826,26.526827                                                                                                          ,
+
+Eastern Cape,Grahamstown,Circle,-33.298611,26.503982                                                                                                          ,
+
+Eastern Cape,Grahamstown,Circle,-33.299745,26.504275                                                                                                          ,
+
+Eastern Cape,Grahamstown,Clanville Street,-33.314566,26.527986                                                                                                ,
+
+Eastern Cape,Grahamstown,Clarkestraat,-33.293312,26.520142                                                                                                    ,
+
+Eastern Cape,Grahamstown,Clarkestraat,-33.293456,26.520921                                                                                                    ,
+
+Eastern Cape,Grahamstown,Close,-33.290173,26.526042                                                                                                           ,
+
+Eastern Cape,Grahamstown,Cloughleystraat 9.45,-33.314856,26.53467                                                                                             ,
+
+Eastern Cape,Grahamstown,Cobdenstraat,-33.308593,26.53492                                                                                                     ,
+
+Eastern Cape,Grahamstown,Cobusstraat,-33.298808,26.539274                                                                                                     ,
+
+Eastern Cape,Grahamstown,Coles Lane 4.72,-33.311691,26.526094                                                                                                 ,
+
+Eastern Cape,Grahamstown,Concorestraat,-33.307692,26.536554                                                                                                   ,
+
+Eastern Cape,Grahamstown,Constitution Street,-33.30435,26.514665                                                                                              ,
+
+Eastern Cape,Grahamstown,Constitution Street,-33.305183,26.519752                                                                                             ,
+
+Eastern Cape,Grahamstown,Constitutionstraat,-33.3046,26.516641                                                                                                ,
+
+Eastern Cape,Grahamstown,Corysingel 16.00,-33.305348,26.505811                                                                                                ,
+
+Eastern Cape,Grahamstown,Corysingel 16.00,-33.306339,26.506347                                                                                                ,
+
+Eastern Cape,Grahamstown,Cotterillstraat,-33.291681,26.520427                                                                                                 ,
+
+Eastern Cape,Grahamstown,Cowie Street,-33.315991,26.525334                                                                                                    ,
+
+Eastern Cape,Grahamstown,Cradock Street,-33.306393,26.512705                                                                                                  ,
+
+Eastern Cape,Grahamstown,Croft Street,-33.311266,26.51287                                                                                                     ,
+
+Eastern Cape,Grahamstown,Cromwellstraat,-33.316583,26.535279                                                                                                  ,
+
+Eastern Cape,Grahamstown,Cromwellstraat,-33.318156,26.53639                                                                                                   ,
+
+Eastern Cape,Grahamstown,Cross Street,-33.313911,26.529854                                                                                                    ,
+
+Eastern Cape,Grahamstown,Cross Street,-33.314523,26.528632                                                                                                    ,
+
+Eastern Cape,Grahamstown,Curriestraat,-33.295191,26.537373                                                                                                    ,
+
+Eastern Cape,Grahamstown,Curriestraat,-33.299095,26.536324                                                                                                    ,
+
+Eastern Cape,Grahamstown,Curriestraat,-33.301829,26.534783                                                                                                    ,
+
+Eastern Cape,Grahamstown,Cuyler Street,-33.309727,26.525146                                                                                                   ,
+
+Eastern Cape,Grahamstown,Cyrusstraat,-33.315147,26.536072                                                                                                     ,
+
+Eastern Cape,Grahamstown,Darling Street,-33.317474,26.532071                                                                                                  ,
+
+Eastern Cape,Grahamstown,De Villiersslot,-33.312017,26.537232                                                                                                 ,
+
+Eastern Cape,Grahamstown,Dickerson,-33.290643,26.53186                                                                                                        ,
+
+Eastern Cape,Grahamstown,Diekersonstraat,-33.292187,26.532997                                                                                                 ,
+
+Eastern Cape,Grahamstown,Diekersonstraat,-33.293455,26.533718                                                                                                 ,
+
+Eastern Cape,Grahamstown,Dietz,-33.31408,26.536298                                                                                                            ,
+
+Eastern Cape,Grahamstown,Donken Street,-33.31578,26.527333                                                                                                    ,
+
+Eastern Cape,Grahamstown,Douglas Avenue,-33.307231,26.526321                                                                                                  ,
+
+Eastern Cape,Grahamstown,Drive,-33.291683,26.525792                                                                                                           ,
+
+Eastern Cape,Grahamstown,Drive,-33.294838,26.526082                                                                                                           ,
+
+Eastern Cape,Grahamstown,Drurry Lane 18.89,-33.299391,26.525777                                                                                               ,
+
+Eastern Cape,Grahamstown,Dulverton,-33.298201,26.516245                                                                                                       ,
+
+Eastern Cape,Grahamstown,Dundas Street,-33.311312,26.52816                                                                                                    ,
+
+Eastern Cape,Grahamstown,Durban Street 18.89,-33.309308,26.512362                                                                                             ,
+
+Eastern Cape,Grahamstown,Eike,-33.309326,26.529777                                                                                                            ,
+
+Eastern Cape,Grahamstown,Espin Rylaan,-33.289364,26.522488                                                                                                    ,
+
+Eastern Cape,Grahamstown,Espin Rylaan,-33.292163,26.522313                                                                                                    ,
+
+Eastern Cape,Grahamstown,Espin Rylaan,-33.293447,26.521772                                                                                                    ,
+
+Eastern Cape,Grahamstown,Evansstraat 10.00,-33.303146,26.540222                                                                                               ,
+
+Eastern Cape,Grahamstown,Eyrestraat,-33.300606,26.538463                                                                                                      ,
+
+Eastern Cape,Grahamstown,Fir Treestraat,-33.317589,26.534034                                                                                                  ,
+
+Eastern Cape,Grahamstown,Fitchatstraat,-33.301651,26.53905                                                                                                    ,
+
+Eastern Cape,Grahamstown,Fitzroy,-33.299712,26.529321                                                                                                         ,
+
+Eastern Cape,Grahamstown,Fitzroy,-33.301621,26.525213                                                                                                         ,
+
+Eastern Cape,Grahamstown,Fitzroystraat,-33.296407,26.536156                                                                                                   ,
+
+Eastern Cape,Grahamstown,Fitzroystraat,-33.302758,26.522818                                                                                                   ,
+
+Eastern Cape,Grahamstown,Fletcherstraat,-33.312524,26.539561                                                                                                  ,
+
+Eastern Cape,Grahamstown,Florencestraat,-33.300941,26.521476                                                                                                  ,
+
+Eastern Cape,Grahamstown,Fordycestraat,-33.303918,26.534357                                                                                                   ,
+
+Eastern Cape,Grahamstown,Fourie,-33.298634,26.503412                                                                                                          ,
+
+Eastern Cape,Grahamstown,Fourie,-33.29971,26.503597                                                                                                           ,
+
+Eastern Cape,Grahamstown,Frances,-33.301981,26.526917                                                                                                         ,
+
+Eastern Cape,Grahamstown,Fraser Street,-33.308345,26.520905                                                                                                   ,
+
+Eastern Cape,Grahamstown,Frederickstraat,-33.318286,26.534512                                                                                                 ,
+
+Eastern Cape,Grahamstown,Frerestraat,-33.298846,26.534439                                                                                                     ,
+
+Eastern Cape,Grahamstown,Frerestraat,-33.301434,26.533963                                                                                                     ,
+
+Eastern Cape,Grahamstown,Froudestraat,-33.298941,26.535465                                                                                                    ,
+
+Eastern Cape,Grahamstown,Gardiner,-33.290588,26.525911                                                                                                        ,
+
+Eastern Cape,Grahamstown,Georgestraat,-33.314574,26.53514                                                                                                     ,
+
+Eastern Cape,Grahamstown,Georgestraat,-33.318802,26.538235                                                                                                    ,
+
+Eastern Cape,Grahamstown,Glastonbury Road,-33.294934,26.513568                                                                                                ,
+
+Eastern Cape,Grahamstown,Glastonbury,-33.295391,26.514382                                                                                                     ,
+
+Eastern Cape,Grahamstown,Glastonbury,-33.298044,26.517427                                                                                                     ,
+
+Eastern Cape,Grahamstown,Goldswain Street,-33.315469,26.526359                                                                                                ,
+
+Eastern Cape,Grahamstown,Grafstraat,-33.305158,26.535209                                                                                                      ,
+
+Eastern Cape,Grahamstown,Graham Street,-33.309237,26.512791                                                                                                   ,
+
+Eastern Cape,Grahamstown,Grant Street,-33.306396,26.523994                                                                                                    ,
+
+Eastern Cape,Grahamstown,Grey Street,-33.316657,26.523549                                                                                                     ,
+
+Eastern Cape,Grahamstown,Grocott Street,-33.303691,26.52221                                                                                                   ,
+
+Eastern Cape,Grahamstown,Haider,-33.295233,26.528902                                                                                                          ,
+
+Eastern Cape,Grahamstown,Hardwickstraat,-33.317347,26.533892                                                                                                  ,
+
+Eastern Cape,Grahamstown,Hares Street 18.89,-33.308558,26.511058                                                                                              ,
+
+Eastern Cape,Grahamstown,Harrismith Street 18.89,-33.309057,26.511491                                                                                         ,
+
+Eastern Cape,Grahamstown,Hart Place,-33.295817,26.52899                                                                                                       ,
+
+Eastern Cape,Grahamstown,Hellerstraat,-33.315885,26.537596                                                                                                    ,
+
+Eastern Cape,Grahamstown,Helmstraat,-33.302055,26.533784                                                                                                      ,
+
+Eastern Cape,Grahamstown,Hemmingstraat,-33.312497,26.524212                                                                                                   ,
+
+Eastern Cape,Grahamstown,Henry Street 22.04,-33.305105,26.525228                                                                                              ,
+
+Eastern Cape,Grahamstown,Henrystraat,-33.301839,26.523067                                                                                                     ,
+
+Eastern Cape,Grahamstown,High Street,-33.308178,26.530802                                                                                                     ,
+
+Eastern Cape,Grahamstown,High Street,-33.310544,26.526069                                                                                                     ,
+
+Eastern Cape,Grahamstown,Highbridge,-33.292139,26.513795                                                                                                      ,
+
+Eastern Cape,Grahamstown,Hill Street,-33.309238,26.525804                                                                                                     ,
+
+Eastern Cape,Grahamstown,Hillsview Street,-33.317563,26.531268                                                                                                ,
+
+Eastern Cape,Grahamstown,Hillsviewstraat,-33.319016,26.534957                                                                                                 ,
+
+Eastern Cape,Grahamstown,Hobsonstraat,-33.29521,26.536927                                                                                                     ,
+
+Eastern Cape,Grahamstown,Hodges Street,-33.306507,26.530037                                                                                                   ,
+
+Eastern Cape,Grahamstown,Holland Street,-33.306623,26.52213                                                                                                   ,
+
+Eastern Cape,Grahamstown,Hopestraat,-33.31671,26.533944                                                                                                       ,
+
+Eastern Cape,Grahamstown,Hopestraat,-33.318096,26.535013                                                                                                      ,
+
+Eastern Cape,Grahamstown,Howick Street 18.89,-33.304807,26.512644                                                                                             ,
+
+Eastern Cape,Grahamstown,Howse Street,-33.312135,26.529132                                                                                                    ,
+
+Eastern Cape,Grahamstown,Hudson Street,-33.310822,26.535487                                                                                                   ,
+
+Eastern Cape,Grahamstown,Huntly Street,-33.312261,26.526191                                                                                                   ,
+
+Eastern Cape,Grahamstown,Ilchester,-33.295596,26.511504                                                                                                       ,
+
+Eastern Cape,Grahamstown,Ilchester,-33.298336,26.515035                                                                                                       ,
+
+Eastern Cape,Grahamstown,Irvingstraat,-33.294118,26.536544                                                                                                    ,
+
+Eastern Cape,Grahamstown,Jacksonstraat,-33.316247,26.536399                                                                                                   ,
+
+Eastern Cape,Grahamstown,Jacksonstraat,-33.316945,26.537772                                                                                                   ,
+
+Eastern Cape,Grahamstown,Jacksonstraat,-33.317599,26.539844                                                                                                   ,
+
+Eastern Cape,Grahamstown,Jacobus Uysweg 16.00,-33.305324,26.507284                                                                                            ,
+
+Eastern Cape,Grahamstown,Jacobus Uysweg 16.00,-33.308311,26.505427                                                                                            ,
+
+Eastern Cape,Grahamstown,Jacques Street,-33.310255,26.508111                                                                                                  ,
+
+Eastern Cape,Grahamstown,James Bowlesstraat 9.50,-33.29793,26.539296                                                                                          ,
+
+Eastern Cape,Grahamstown,James Bowlesstraat,-33.29818,26.53884                                                                                                ,
+
+Eastern Cape,Grahamstown,Jarvisstraat,-33.307981,26.537833                                                                                                    ,
+
+Eastern Cape,Grahamstown,Jenner,-33.305419,26.491124                                                                                                          ,
+
+Eastern Cape,Grahamstown,Johnson Street,-33.303275,26.539195                                                                                                  ,
+
+Eastern Cape,Grahamstown,Johnson Street,-33.303975,26.53941                                                                                                   ,
+
+Eastern Cape,Grahamstown,Johnstonstraat,-33.302189,26.537924                                                                                                  ,
+
+Eastern Cape,Grahamstown,Kennellystraat 12.59,-33.318445,26.541061                                                                                            ,
+
+Eastern Cape,Grahamstown,Kettlewell Street,-33.290113,26.524798                                                                                               ,
+
+Eastern Cape,Grahamstown,Kettlewell Street,-33.29232,26.524622                                                                                                ,
+
+Eastern Cape,Grahamstown,Kettlewell,-33.294378,26.52477                                                                                                       ,
+
+Eastern Cape,Grahamstown,Kingstraat,-33.301957,26.519973                                                                                                      ,
+
+Eastern Cape,Grahamstown,Kingstraat,-33.303026,26.518538                                                                                                      ,
+
+Eastern Cape,Grahamstown,Knight Street,-33.308157,26.528399                                                                                                   ,
+
+Eastern Cape,Grahamstown,Kowie Street,-33.310593,26.532693                                                                                                    ,
+
+Eastern Cape,Grahamstown,Lane 4.72,-33.291007,26.532473                                                                                                       ,
+
+Eastern Cape,Grahamstown,Lane 6.30,-33.306304,26.513511                                                                                                       ,
+
+Eastern Cape,Grahamstown,Lane 7.55,-33.313047,26.528263                                                                                                       ,
+
+Eastern Cape,Grahamstown,Lane 7.55,-33.313611,26.527614                                                                                                       ,
+
+Eastern Cape,Grahamstown,Lane,-33.297212,26.532163                                                                                                            ,
+
+Eastern Cape,Grahamstown,Lane,-33.302876,26.530121                                                                                                            ,
+
+Eastern Cape,Grahamstown,Lansdowne,-33.303743,26.526852                                                                                                       ,
+
+Eastern Cape,Grahamstown,Lawrencestraat,-33.314726,26.53343                                                                                                   ,
+
+Eastern Cape,Grahamstown,Leicester Street 18.89,-33.307921,26.510965                                                                                          ,
+
+Eastern Cape,Grahamstown,Leicester Street 18.89,-33.310214,26.506926                                                                                          ,
+
+Eastern Cape,Grahamstown,Link Street,-33.31047,26.532372                                                                                                      ,
+
+Eastern Cape,Grahamstown,Linneystraat,-33.294786,26.536408                                                                                                    ,
+
+Eastern Cape,Grahamstown,Livingstone,-33.299931,26.532166                                                                                                     ,
+
+Eastern Cape,Grahamstown,Lk,-33.306308,26.514754                                                                                                              ,
+
+Eastern Cape,Grahamstown,Lloyd Close,-33.297872,26.528852                                                                                                     ,
+
+Eastern Cape,Grahamstown,Lucas Meyer Avenue 20.00,-33.300837,26.514581                                                                                        ,
+
+Eastern Cape,Grahamstown,Lucas Meyer Avenue,-33.297749,26.508217                                                                                              ,
+
+Eastern Cape,Grahamstown,Lucaslaan,-33.316615,26.518208                                                                                                       ,
+
+Eastern Cape,Grahamstown,Luke Street,-33.307246,26.525628                                                                                                     ,
+
+Eastern Cape,Grahamstown,Macgowanstraat,-33.292477,26.520904                                                                                                  ,
+
+Eastern Cape,Grahamstown,Market Street,-33.316205,26.527586                                                                                                   ,
+
+Eastern Cape,Grahamstown,Marketstraat,-33.310825,26.537971                                                                                                    ,
+
+Eastern Cape,Grahamstown,Marketstraat,-33.311589,26.536436                                                                                                    ,
+
+Eastern Cape,Grahamstown,Marshall Street 12.59,-33.301385,26.529735                                                                                           ,
+
+Eastern Cape,Grahamstown,Mather-Pikestraat,-33.310979,26.50678                                                                                                ,
+
+Eastern Cape,Grahamstown,Matthewstraat,-33.309688,26.537817                                                                                                   ,
+
+Eastern Cape,Grahamstown,Matthewstraat,-33.311793,26.539703                                                                                                   ,
+
+Eastern Cape,Grahamstown,Maynardstraat,-33.311262,26.537694                                                                                                   ,
+
+Eastern Cape,Grahamstown,Mcgahey Place,-33.296266,26.52911                                                                                                    ,
+
+Eastern Cape,Grahamstown,Mcmasterstraat,-33.299928,26.539709                                                                                                  ,
+
+Eastern Cape,Grahamstown,Meurantstraat,-33.303995,26.506272                                                                                                   ,
+
+Eastern Cape,Grahamstown,Middle Terrace,-33.30031,26.536141                                                                                                   ,
+
+Eastern Cape,Grahamstown,Middleterras,-33.296744,26.53773                                                                                                     ,
+
+Eastern Cape,Grahamstown,Miles,-33.295346,26.527618                                                                                                           ,
+
+Eastern Cape,Grahamstown,Miles,-33.296811,26.524486                                                                                                           ,
+
+Eastern Cape,Grahamstown,Millstraat,-33.313749,26.534053                                                                                                      ,
+
+Eastern Cape,Grahamstown,Milner Street,-33.30355,26.521062                                                                                                    ,
+
+Eastern Cape,Grahamstown,Milner Street,-33.306367,26.523202                                                                                                   ,
+
+Eastern Cape,Grahamstown,Montaguestraat 9.45,-33.314745,26.534171                                                                                             ,
+
+Eastern Cape,Grahamstown,Montaguestraat,-33.314019,26.533601                                                                                                  ,
+
+Eastern Cape,Grahamstown,Mortimerstraat,-33.309364,26.538757                                                                                                  ,
+
+Eastern Cape,Grahamstown,Mosdene Close,-33.300836,26.525343                                                                                                   ,
+
+Eastern Cape,Grahamstown,Mountstraat,-33.317974,26.534405                                                                                                     ,
+
+Eastern Cape,Grahamstown,Musgravestraat,-33.316614,26.538523                                                                                                  ,
+
+Eastern Cape,Grahamstown,Musgravestraat,-33.317767,26.538051                                                                                                  ,
+
+Eastern Cape,Grahamstown,Napier Street,-33.305817,26.531581                                                                                                   ,
+
+Eastern Cape,Grahamstown,Nasionale Pad Prok. 212/1985,-33.322105,26.53248                                                                                     ,
+
+Eastern Cape,Grahamstown,Nasionale Pad Prok. 212/1985,-33.325046,26.546605                                                                                    ,
+
+Eastern Cape,Grahamstown,Nasionale Pad Prok.212/1985 Alby. M.F. Bl 166,-33.323107,26.519617                                                                   ,
+
+Eastern Cape,Grahamstown,National Road Proc.12/1986,-33.282025,26.588455                                                                                      ,
+
+Eastern Cape,Grahamstown,National Road Proc.212/1985,-33.291294,26.589576                                                                                     ,
+
+Eastern Cape,Grahamstown,Nelson Street,-33.31306,26.53223                                                                                                     ,
+
+Eastern Cape,Grahamstown,Nelsonstraat,-33.314205,26.533137                                                                                                    ,
+
+Eastern Cape,Grahamstown,Nelstraat 12.59,-33.316962,26.539917                                                                                                 ,
+
+Eastern Cape,Grahamstown,Newstraat,-33.309935,26.523676                                                                                                       ,
+
+Eastern Cape,Grahamstown,Nico Malan Drive,-33.294977,26.508597                                                                                                ,
+
+Eastern Cape,Grahamstown,No.47,-33.273601,26.588644                                                                                                           ,
+
+Eastern Cape,Grahamstown,Oatlandsstraat,-33.301864,26.520629                                                                                                  ,
+
+Eastern Cape,Grahamstown,Oatlandsstraat,-33.304775,26.524183                                                                                                  ,
+
+Eastern Cape,Grahamstown,Oersonstraat 9.45,-33.300055,26.540497                                                                                               ,
+
+Eastern Cape,Grahamstown,Ogilviestraat,-33.312052,26.538447                                                                                                   ,
+
+Eastern Cape,Grahamstown,Ormondterras,-33.307277,26.538431                                                                                                    ,
+
+Eastern Cape,Grahamstown,Ormondterras,-33.309413,26.539972                                                                                                    ,
+
+Eastern Cape,Grahamstown,Osborne Lane,-33.312812,26.531982                                                                                                    ,
+
+Eastern Cape,Grahamstown,P 26 E5,-33.299121,26.533483                                                                                                         ,
+
+Eastern Cape,Grahamstown,P 37 E5,-33.307236,26.523864                                                                                                         ,
+
+Eastern Cape,Grahamstown,Pad 10.00,-33.302969,26.537515                                                                                                       ,
+
+Eastern Cape,Grahamstown,Pad 3.15,-33.31005,26.536424                                                                                                         ,
+
+Eastern Cape,Grahamstown,Pad 7.56,-33.310989,26.519739                                                                                                        ,
+
+Eastern Cape,Grahamstown,Pad Gesluit,-33.314108,26.516525                                                                                                     ,
+
+Eastern Cape,Grahamstown,Pad Gesluit,-33.315459,26.517689                                                                                                     ,
+
+Eastern Cape,Grahamstown,Pad,-33.297043,26.533997                                                                                                             ,
+
+Eastern Cape,Grahamstown,Pad,-33.299627,26.53685                                                                                                              ,
+
+Eastern Cape,Grahamstown,Pad,-33.300868,26.51979                                                                                                              ,
+
+Eastern Cape,Grahamstown,Pad,-33.301157,26.536076                                                                                                             ,
+
+Eastern Cape,Grahamstown,Pad,-33.301721,26.519396                                                                                                             ,
+
+Eastern Cape,Grahamstown,Pad,-33.303465,26.519365                                                                                                             ,
+
+Eastern Cape,Grahamstown,Pad,-33.309732,26.534308                                                                                                             ,
+
+Eastern Cape,Grahamstown,Paradys Row,-33.309525,26.534726                                                                                                     ,
+
+Eastern Cape,Grahamstown,Park,-33.297004,26.525501                                                                                                            ,
+
+Eastern Cape,Grahamstown,Park,-33.297906,26.530611                                                                                                            ,
+
+Eastern Cape,Grahamstown,Park,-33.301297,26.528293                                                                                                            ,
+
+Eastern Cape,Grahamstown,Parkerstraat,-33.301886,26.52203                                                                                                     ,
+
+Eastern Cape,Grahamstown,Parry Street,-33.305009,26.526261                                                                                                    ,
+
+Eastern Cape,Grahamstown,Parson Street,-33.310034,26.509125                                                                                                   ,
+
+Eastern Cape,Grahamstown,Passage 2.52,-33.310287,26.527999                                                                                                    ,
+
+Eastern Cape,Grahamstown,Passage 3.15,-33.304264,26.529279                                                                                                    ,
+
+Eastern Cape,Grahamstown,Passage 6.30,-33.310829,26.526637                                                                                                    ,
+
+Eastern Cape,Grahamstown,Passage,-33.31069,26.528572                                                                                                          ,
+
+Eastern Cape,Grahamstown,Passage,-33.311051,26.52822                                                                                                          ,
+
+Eastern Cape,Grahamstown,Passage,-33.315257,26.525471                                                                                                         ,
+
+Eastern Cape,Grahamstown,Pear Laan,-33.305626,26.517382                                                                                                       ,
+
+Eastern Cape,Grahamstown,Philipsstraat 16.00,-33.304571,26.50496                                                                                              ,
+
+Eastern Cape,Grahamstown,Pigot Street,-33.309559,26.532337                                                                                                    ,
+
+Eastern Cape,Grahamstown,Place,-33.314067,26.536451                                                                                                           ,
+
+Eastern Cape,Grahamstown,Plains,-33.289116,26.535531                                                                                                          ,
+
+Eastern Cape,Grahamstown,Plateau,-33.287159,26.53483                                                                                                          ,
+
+Eastern Cape,Grahamstown,Plumbridge Drive,-33.2928,26.525496                                                                                                  ,
+
+Eastern Cape,Grahamstown,Plumbridge,-33.291234,26.525501                                                                                                      ,
+
+Eastern Cape,Grahamstown,Plumbridge,-33.294061,26.52557                                                                                                       ,
+
+Eastern Cape,Grahamstown,Porlock,-33.298394,26.518593                                                                                                         ,
+
+Eastern Cape,Grahamstown,Portbury,-33.293154,26.514885                                                                                                        ,
+
+Eastern Cape,Grahamstown,Prince Alfred Street,-33.31549,26.511623                                                                                             ,
+
+Eastern Cape,Grahamstown,Prince Alfredstraat,-33.313237,26.517106                                                                                             ,
+
+Eastern Cape,Grahamstown,Pringle,-33.308519,26.531617                                                                                                         ,
+
+Eastern Cape,Grahamstown,Prins Street,-33.309691,26.52989                                                                                                     ,
+
+Eastern Cape,Grahamstown,Queen Street,-33.310148,26.530049                                                                                                    ,
+
+Eastern Cape,Grahamstown,Queens Grove Street 12.59,-33.304307,26.512007                                                                                       ,
+
+Eastern Cape,Grahamstown,Rademeyerstraat,-33.293333,26.53505                                                                                                  ,
+
+Eastern Cape,Grahamstown,Rae Street,-33.315947,26.528822                                                                                                      ,
+
+Eastern Cape,Grahamstown,Rautenbach Road 30.00,-33.320572,26.490876                                                                                           ,
+
+Eastern Cape,Grahamstown,Rautenbach,-33.305679,26.494564                                                                                                      ,
+
+Eastern Cape,Grahamstown,Rautenbach,-33.306153,26.491739                                                                                                      ,
+
+Eastern Cape,Grahamstown,Rautenbach,-33.307726,26.489949                                                                                                      ,
+
+Eastern Cape,Grahamstown,Rd 6.30,-33.304628,26.514972                                                                                                         ,
+
+Eastern Cape,Grahamstown,Rd,-33.319451,26.498558                                                                                                              ,
+
+Eastern Cape,Grahamstown,Rennielaan,-33.319279,26.540292                                                                                                      ,
+
+Eastern Cape,Grahamstown,Retiefstraat,-33.313252,26.534838                                                                                                    ,
+
+Eastern Cape,Grahamstown,Rietfontein Place,-33.318708,26.532405                                                                                               ,
+
+Eastern Cape,Grahamstown,Riverstraat,-33.318474,26.537197                                                                                                     ,
+
+Eastern Cape,Grahamstown,Rivett Street,-33.309571,26.510337                                                                                                   ,
+
+Eastern Cape,Grahamstown,Rm 1,-33.289721,26.531868                                                                                                            ,
+
+Eastern Cape,Grahamstown,Rm 1,-33.291624,26.533374                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road 15.74,-33.307396,26.507049                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 20.00,-33.29813,26.497224                                                                                                       ,
+
+Eastern Cape,Grahamstown,Road 20.00,-33.311618,26.490011                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 20.00,-33.313873,26.489714                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 20.00,-33.314606,26.492751                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 30.00,-33.296351,26.493908                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 31.49,-33.317889,26.556238                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road 31.49,-33.321434,26.556593                                                                                                      ,
+
+Eastern Cape,Grahamstown,Road Closed,-33.303767,26.531483                                                                                                     ,
+
+Eastern Cape,Grahamstown,Road Closed,-33.305164,26.519007                                                                                                     ,
+
+Eastern Cape,Grahamstown,Road,-33.274106,26.588315                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.291954,26.515894                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.292527,26.515051                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.293248,26.518957                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.293266,26.517558                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.293338,26.511721                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.294109,26.516532                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.294259,26.513353                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.29476,26.515438                                                                                                             ,
+
+Eastern Cape,Grahamstown,Road,-33.29544,26.510419                                                                                                             ,
+
+Eastern Cape,Grahamstown,Road,-33.295661,26.514806                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.295724,26.512307                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.296324,26.516626                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.296845,26.518325                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298034,26.518668                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298182,26.527434                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298351,26.519693                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298552,26.499329                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298815,26.515189                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.298937,26.518861                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.299236,26.517671                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.299237,26.516478                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.299988,26.529547                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.300175,26.499905                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.300846,26.529277                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.301691,26.500108                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.303095,26.499096                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.303622,26.489991                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.303633,26.532852                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.304734,26.491126                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.304988,26.495813                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.306184,26.492323                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.307217,26.490231                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.308558,26.490924                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.313113,26.543264                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.31372,26.544348                                                                                                             ,
+
+Eastern Cape,Grahamstown,Road,-33.319248,26.531915                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.319284,26.498689                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.319973,26.497091                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.320256,26.493133                                                                                                            ,
+
+Eastern Cape,Grahamstown,Road,-33.320561,26.492379                                                                                                            ,
+
+Eastern Cape,Grahamstown,Robertstraat,-33.305262,26.532661                                                                                                    ,
+
+Eastern Cape,Grahamstown,Robinson Street,-33.315906,26.529823                                                                                                 ,
+
+Eastern Cape,Grahamstown,Robinson Street,-33.317534,26.526661                                                                                                 ,
+
+Eastern Cape,Grahamstown,Rockridge Street,-33.317896,26.525071                                                                                                ,
+
+Eastern Cape,Grahamstown,Rose Terrace,-33.307391,26.522502                                                                                                    ,
+
+Eastern Cape,Grahamstown,Rossstraat 20.78,-33.300997,26.523455                                                                                                ,
+
+Eastern Cape,Grahamstown,Rowley,-33.293754,26.523868                                                                                                          ,
+
+Eastern Cape,Grahamstown,Rvw,-33.312011,26.524105                                                                                                             ,
+
+Eastern Cape,Grahamstown,S.9160/100,-33.311146,26.513466                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/100,-33.311495,26.51255                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/106,-33.31276,26.527292                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl147,-33.311834,26.539653                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl35,-33.29384,26.522122                                                                                                   ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl354,-33.315007,26.53623                                                                                                  ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl356,-33.299129,26.539232                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl365,-33.304764,26.506696                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl365,-33.305542,26.506364                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl365,-33.30725,26.504995                                                                                                  ,
+
+Eastern Cape,Grahamstown,S.9160/11 Bl365,-33.307746,26.505999                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/11 P.147,-33.31024,26.510769                                                                                                  ,
+
+Eastern Cape,Grahamstown,S.9160/11 P282,-33.29735,26.524097                                                                                                   ,
+
+Eastern Cape,Grahamstown,S.9160/11 P356,-33.296134,26.524883                                                                                                  ,
+
+Eastern Cape,Grahamstown,S.9160/11 P356,-33.297821,26.528844                                                                                                  ,
+
+Eastern Cape,Grahamstown,S.9160/118,-33.313496,26.54791                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/122 P145,-33.303525,26.531964                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/122 P165,-33.302237,26.532849                                                                                                 ,
+
+Eastern Cape,Grahamstown,S.9160/122,-33.302821,26.533753                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/137,-33.30523,26.519497                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/139,-33.302942,26.516984                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/178,-33.304745,26.530449                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/184,-33.301414,26.536162                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/195,-33.307417,26.52899                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/200,-33.300183,26.529885                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/207,-33.307833,26.510189                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/213,-33.309597,26.511073                                                                                                      ,
+
+Eastern Cape,Grahamstown,S.9160/27,-33.323455,26.544721                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/5 P82,-33.302488,26.532222                                                                                                    ,
+
+Eastern Cape,Grahamstown,S.9160/53/9,-33.302896,26.534997                                                                                                     ,
+
+Eastern Cape,Grahamstown,S.9160/55,-33.301585,26.518719                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/58,-33.304308,26.533391                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/61/1,-33.304268,26.514004                                                                                                     ,
+
+Eastern Cape,Grahamstown,S.9160/61/1,-33.304818,26.515612                                                                                                     ,
+
+Eastern Cape,Grahamstown,S.9160/63,-33.316325,26.537518                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/78,-33.317224,26.539063                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.9160/83,-33.317382,26.535315                                                                                                       ,
+
+Eastern Cape,Grahamstown,S.S9160/11,-33.305239,26.527402                                                                                                      ,
+
+Eastern Cape,Grahamstown,Saunders Street 12.59,-33.300758,26.53026                                                                                            ,
+
+Eastern Cape,Grahamstown,Schonlandlaan 16.00,-33.307656,26.504649                                                                                             ,
+
+Eastern Cape,Grahamstown,Scottstraat,-33.311261,26.522631                                                                                                     ,
+
+Eastern Cape,Grahamstown,Selborne Road 18.89,-33.297829,26.524529                                                                                             ,
+
+Eastern Cape,Grahamstown,Selborne Road 18.89,-33.298907,26.526067                                                                                             ,
+
+Eastern Cape,Grahamstown,Selworthy,-33.293627,26.510631                                                                                                       ,
+
+Eastern Cape,Grahamstown,Selworthy,-33.294484,26.515067                                                                                                       ,
+
+Eastern Cape,Grahamstown,Seymour Street,-33.295759,26.53282                                                                                                   ,
+
+Eastern Cape,Grahamstown,Seymour,-33.298227,26.527028                                                                                                         ,
+
+Eastern Cape,Grahamstown,Shepperdsonslaan,-33.315689,26.533206                                                                                                ,
+
+Eastern Cape,Grahamstown,Shnellstraat,-33.295451,26.536237                                                                                                    ,
+
+Eastern Cape,Grahamstown,Shortstraat,-33.304278,26.518283                                                                                                     ,
+
+Eastern Cape,Grahamstown,Shuttleworth,-33.303589,26.489235                                                                                                    ,
+
+Eastern Cape,Grahamstown,Siegfriedstraat,-33.313559,26.540541                                                                                                 ,
+
+Eastern Cape,Grahamstown,Siegfriedstraat,-33.314739,26.539232                                                                                                 ,
+
+Eastern Cape,Grahamstown,Slagters,-33.302521,26.529892                                                                                                        ,
+
+Eastern Cape,Grahamstown,Smitstraat,-33.292162,26.534176                                                                                                      ,
+
+Eastern Cape,Grahamstown,Smitstraat,-33.29287,26.535222                                                                                                       ,
+
+Eastern Cape,Grahamstown,Someretstraat,-33.314597,26.523433                                                                                                   ,
+
+Eastern Cape,Grahamstown,Somersetstraat,-33.308024,26.518465                                                                                                  ,
+
+Eastern Cape,Grahamstown,Somersetstraat,-33.310815,26.520605                                                                                                  ,
+
+Eastern Cape,Grahamstown,South Street,-33.310834,26.513988                                                                                                    ,
+
+Eastern Cape,Grahamstown,Southey,-33.29908,26.528149                                                                                                          ,
+
+Eastern Cape,Grahamstown,Speke Street,-33.305523,26.525568                                                                                                    ,
+
+Eastern Cape,Grahamstown,Speke Street,-33.305833,26.523436                                                                                                    ,
+
+Eastern Cape,Grahamstown,Spencer Chapmanstraat,-33.290903,26.51926                                                                                            ,
+
+Eastern Cape,Grahamstown,Spencer,-33.289996,26.52063                                                                                                          ,
+
+Eastern Cape,Grahamstown,Spring Street,-33.307245,26.529591                                                                                                   ,
+
+Eastern Cape,Grahamstown,Square,-33.309873,26.526868                                                                                                          ,
+
+Eastern Cape,Grahamstown,St. Aidans Avenue,-33.303409,26.515618                                                                                               ,
+
+Eastern Cape,Grahamstown,St.Aidanslaan,-33.303898,26.519473                                                                                                   ,
+
+Eastern Cape,Grahamstown,Stanley Louwstraat,-33.304285,26.505598                                                                                              ,
+
+Eastern Cape,Grahamstown,Stanleystraat,-33.297878,26.535077                                                                                                   ,
+
+Eastern Cape,Grahamstown,Steeg,-33.292438,26.534062                                                                                                           ,
+
+Eastern Cape,Grahamstown,Steeg,-33.3179,26.524477                                                                                                             ,
+
+Eastern Cape,Grahamstown,Stirk Road 20.00,-33.308154,26.489222                                                                                                ,
+
+Eastern Cape,Grahamstown,Stirk,-33.308374,26.490162                                                                                                           ,
+
+Eastern Cape,Grahamstown,Straat 4.72,-33.30902,26.524472                                                                                                      ,
+
+Eastern Cape,Grahamstown,Straat 9.50,-33.296659,26.539218                                                                                                     ,
+
+Eastern Cape,Grahamstown,Straat,-33.291268,26.536563                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.291701,26.532918                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.293068,26.533867                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.293295,26.53605                                                                                                           ,
+
+Eastern Cape,Grahamstown,Straat,-33.29361,26.535911                                                                                                           ,
+
+Eastern Cape,Grahamstown,Straat,-33.294777,26.534689                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.296149,26.537634                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.305497,26.535817                                                                                                          ,
+
+Eastern Cape,Grahamstown,Straat,-33.310566,26.537332                                                                                                          ,
+
+Eastern Cape,Grahamstown,Strelitzia Street,-33.296477,26.508274                                                                                               ,
+
+Eastern Cape,Grahamstown,Taunton,-33.296712,26.51596                                                                                                          ,
+
+Eastern Cape,Grahamstown,Temlett Street,-33.318892,26.541864                                                                                                  ,
+
+Eastern Cape,Grahamstown,Temlettstraat,-33.319886,26.540721                                                                                                   ,
+
+Eastern Cape,Grahamstown,Templeton Rylaan,-33.294263,26.521345                                                                                                ,
+
+Eastern Cape,Grahamstown,Templeton Rylaan,-33.294819,26.523972                                                                                                ,
+
+Eastern Cape,Grahamstown,Thackeraystraat,-33.31837,26.538877                                                                                                  ,
+
+Eastern Cape,Grahamstown,Thompsonstraat,-33.312817,26.523852                                                                                                  ,
+
+Eastern Cape,Grahamstown,Thumblerstraat,-33.296803,26.538252                                                                                                  ,
+
+Eastern Cape,Grahamstown,Thumblerstraat,-33.297554,26.537531                                                                                                  ,
+
+Eastern Cape,Grahamstown,Trollopestraat,-33.298663,26.533459                                                                                                  ,
+
+Eastern Cape,Grahamstown,Trollopestraat,-33.300938,26.533058                                                                                                  ,
+
+Eastern Cape,Grahamstown,Trotterstraat,-33.302515,26.537362                                                                                                   ,
+
+Eastern Cape,Grahamstown,Trotterstraat,-33.304823,26.535804                                                                                                   ,
+
+Eastern Cape,Grahamstown,Trunk,-33.274712,26.587918                                                                                                           ,
+
+Eastern Cape,Grahamstown,Valley,-33.313763,26.542939                                                                                                          ,
+
+Eastern Cape,Grahamstown,Victoriaweg,-33.307,26.536928                                                                                                        ,
+
+Eastern Cape,Grahamstown,Vogtstraat,-33.293618,26.53658                                                                                                       ,
+
+Eastern Cape,Grahamstown,Walkerstraat,-33.310809,26.539958                                                                                                    ,
+
+Eastern Cape,Grahamstown,Warren Street,-33.311549,26.512026                                                                                                   ,
+
+Eastern Cape,Grahamstown,Watermeyer Street,-33.305878,26.530768                                                                                               ,
+
+Eastern Cape,Grahamstown,Watsonstraat,-33.318327,26.540095                                                                                                    ,
+
+Eastern Cape,Grahamstown,Way,-33.287031,26.536927                                                                                                             ,
+
+Eastern Cape,Grahamstown,Way,-33.289092,26.535904                                                                                                             ,
+
+Eastern Cape,Grahamstown,Webberstraat,-33.315442,26.536631                                                                                                    ,
+
+Eastern Cape,Grahamstown,Wedmore,-33.292864,26.516237                                                                                                         ,
+
+Eastern Cape,Grahamstown,West Street,-33.312504,26.532256                                                                                                     ,
+
+Eastern Cape,Grahamstown,Whites,-33.296247,26.527367                                                                                                          ,
+
+Eastern Cape,Grahamstown,Whitesidestraat 12.59,-33.316025,26.539807                                                                                           ,
+
+Eastern Cape,Grahamstown,Whitesidestraat 12.59,-33.31701,26.540388                                                                                            ,
+
+Eastern Cape,Grahamstown,Whithall Street,-33.315381,26.526638                                                                                                 ,
+
+Eastern Cape,Grahamstown,Wilcoxstraat,-33.313301,26.535334                                                                                                    ,
+
+Eastern Cape,Grahamstown,Willeton,-33.294575,26.511767                                                                                                        ,
+
+Eastern Cape,Grahamstown,William Street,-33.310576,26.536157                                                                                                  ,
+
+Eastern Cape,Grahamstown,Willshire Crescent 15.74,-33.306477,26.508789                                                                                        ,
+
+Eastern Cape,Grahamstown,Wincanton,-33.293717,26.515508                                                                                                       ,
+
+Eastern Cape,Grahamstown,Winsford,-33.292547,26.518503                                                                                                        ,
+
+Eastern Cape,Grahamstown,Withypool,-33.296375,26.517613                                                                                                       ,
+
+Eastern Cape,Grahamstown,Wolseleystraat,-33.29931,26.534864                                                                                                   ,
+
+Eastern Cape,Grahamstown,Wolselley,-33.298934,26.531858                                                                                                       ,
+
+Eastern Cape,Grahamstown,Worcester Street,-33.306598,26.519944                                                                                                ,
+
+Eastern Cape,Grahamstown,Worcester Street,-33.309304,26.514384                                                                                                ,
+
+Eastern Cape,Grahamstown,Wyldestraat 10.00,-33.302663,26.53988                                                                                                ,
+
+Eastern Cape,Grahamstown,Yeomansstraat,-33.294993,26.535821                                                                                                   ,
+
+Eastern Cape,Grahamstown,York Street,-33.311049,26.534819                                                                                                     ,
+
+Eastern Cape,Grahamstown,Yorkstraat,-33.315469,26.539554                                                                                                      ,
+Eastern Cape,Peddie,Albert Street,-33.196331,27.11705                                                                                                         ,
+
+Eastern Cape,Peddie,Bridge Street,-33.196576,27.117527                                                                                                        ,
+
+Eastern Cape,Peddie,Church Street,-33.195199,27.116409                                                                                                        ,
+
+Eastern Cape,Peddie,Cross Street,-33.195984,27.11409                                                                                                          ,
+
+Eastern Cape,Peddie,Fountain Square,-33.194831,27.118218                                                                                                      ,
+
+Eastern Cape,Peddie,Garden Street,-33.196251,27.114968                                                                                                        ,
+
+Eastern Cape,Peddie,High Street,-33.195876,27.115918                                                                                                          ,
+
+Eastern Cape,Peddie,Hill Street,-33.193918,27.116842                                                                                                          ,
+
+Eastern Cape,Peddie,Lane 3.14M,-33.196336,27.11164                                                                                                            ,
+
+Eastern Cape,Peddie,Lane 3M,-33.196877,27.101419                                                                                                              ,
+
+Eastern Cape,Peddie,Lane 3M,-33.197448,27.114092                                                                                                              ,
+
+Eastern Cape,Peddie,Market Square,-33.194613,27.116727                                                                                                        ,
+
+Eastern Cape,Peddie,Market Street,-33.196842,27.115426                                                                                                        ,
+
+Eastern Cape,Peddie,Middle Street,-33.195195,27.115408                                                                                                        ,
+
+Eastern Cape,Peddie,Prospect Street,-33.195812,27.111821                                                                                                      ,
+
+Eastern Cape,Peddie,Prospect Street,-33.196923,27.114501                                                                                                      ,
+
+Eastern Cape,Peddie,Quarry Street,-33.197549,27.116673                                                                                                        ,
+
+Eastern Cape,Peddie,Smith Street,-33.193665,27.118359                                                                                                         ,
+
+Eastern Cape,Peddie,Street 13M,-33.191333,27.105161                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.191534,27.107328                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.192018,27.105752                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.192063,27.106596                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.19265,27.105032                                                                                                            ,
+
+Eastern Cape,Peddie,Street 13M,-33.192842,27.107102                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.192886,27.104345                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.193299,27.104909                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.193478,27.106981                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.194707,27.105815                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.195215,27.109553                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.195874,27.109505                                                                                                           ,
+
+Eastern Cape,Peddie,Street 13M,-33.196028,27.106922                                                                                                           ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.199672,27.123365                                                                                                        ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.19977,27.121569                                                                                                         ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.199865,27.125293                                                                                                        ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.200408,27.124694                                                                                                        ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.200873,27.124017                                                                                                        ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.201394,27.123384                                                                                                        ,
+
+Eastern Cape,Peddie,Street 18.89M,-33.201572,27.125373                                                                                                        ,
+
+Eastern Cape,Peddie,Street 20M,-33.192256,27.107908                                                                                                           ,
+
+Eastern Cape,Peddie,Street 20M,-33.193787,27.109849                                                                                                           ,
+
+Eastern Cape,Peddie,Street 20M,-33.194994,27.107533                                                                                                           ,
+
+Eastern Cape,Peddie,Street 20M,-33.19654,27.104042                                                                                                            ,
+
+Eastern Cape,Peddie,Street 20M,-33.19656,27.109143                                                                                                            ,
+
+Eastern Cape,Peddie,Street 31.49M,-33.196671,27.112349                                                                                                        ,
+
+Eastern Cape,Peddie,Street 31.49M,-33.197121,27.113352                                                                                                        ,
+
+Eastern Cape,Peddie,Street,-33.193516,27.117523                                                                                                               ,
+
+Eastern Cape,Peddie,Victoria Street,-33.19791,27.117545                                                                                                       ,
+
