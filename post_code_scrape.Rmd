@@ -71,7 +71,7 @@ import("googlemaps")
 source_python("geocoding.py")
 
 library("ggmap")
-ggmap::register_google(key = "AIzaSyCf_dIiMGEZEtw1pjg325Sr8X2Vdg9QDEo")
+ggmap::register_google(key = "")
 
 library(ggplot2)
 ```
