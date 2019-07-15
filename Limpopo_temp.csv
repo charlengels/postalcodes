@@ -1,0 +1,905 @@
+Location,Street_code,Box_code,Area,Municipality,Province,Country,Lat,Lon
+Dwaalboom,-------,0319,Thabazimbi,Waterberg,Limpopo,South Africa,-24.716667,26.816667
+Northam,-------,0360,Northam,Waterberg,Limpopo,South Africa,-24.9626628,27.2656959
+Koedoeskop,-------,0361,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5828411,27.4027743
+Amandelbult,0362,0362,Chromite,Waterberg,Limpopo,South Africa,-24.816667,27.283333
+Chromite,0362,0362,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5828411,27.4027743
+Emlanjeni,-------,0363,Thabazimbi,Waterberg,Limpopo,South Africa,-24.7843908,27.3498955
+Lushof,-------,0380,Thabazimbi,Waterberg,Limpopo,South Africa,-24.9875726,27.2486563
+Thabazimbi,0387,0380,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5828411,27.4027743
+Makoppa,-------,0381,Thabazimbi,Waterberg,Limpopo,South Africa,-24.4488999,27.14297
+Kiesel,-------,0382,Thabazimbi,Waterberg,Limpopo,South Africa,NA,NA
+Setaria,0383,0383,Thabazimbi,Waterberg,Limpopo,South Africa,-24.7963048,27.4071802
+Zondereinde,-------,0383,Thabazimbi,Waterberg,Limpopo,South Africa,-24.8317553,27.3402132
+Rooibokkraal,-------,0384,Thabazimbi,Waterberg,Limpopo,South Africa,-24.3072674,27.0493336
+Sentrum,-------,0385,Thabazimbi,Waterberg,Limpopo,South Africa,-24.283333,27.333333
+Ipelegeng,-------,0386,Podiphatshwa,Waterberg,Limpopo,South Africa,-27.201612,25.2972022
+Podiphatshwa,-------,0386,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5828411,27.4027743
+Kwaggasvlakte,-------,0387,Regorogile,Waterberg,Limpopo,South Africa,-24.5797561,27.3836808
+Regorogile,0387,0387,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5797561,27.3836808
+Spitzkop,-------,0387,Regorogile,Waterberg,Limpopo,South Africa,-24.3966667,30.3727778
+Thabazimbi,0387,0380,Thabazimbi,Waterberg,Limpopo,South Africa,-24.5828411,27.4027743
+Rhenosterdrift,-------,0405,Rust De Winter,Waterberg,Limpopo,South Africa,-25.2,28.616667
+Rust De Winter,-------,0406,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Potwane,-------,0419,Thulwe,Capricorn,Limpopo,South Africa,-25.2256025,28.2117257
+De Putten,-------,0430,Settlers,Waterberg,Limpopo,South Africa,-24.95,28.533333
+Warmbaths,-------,0430,Settlers,Waterberg,Limpopo,South Africa,-24.9555699,28.53807
+Morolong,-------,0433,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Bingley,-------,0436,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Tuinplaas,-------,0437,Nylstroom,Waterberg,Limpopo,South Africa,-24.9,28.733333
+Hani View,-------,0443,Temba,Waterberg,Limpopo,South Africa,-23.4012946,29.4179324
+Ga Lekalakala,-------,0448,Temba,Waterberg,Limpopo,South Africa,-24.15,28.9666667
+Leeufontein,0449,-------,Mbibane,Sekhukhune,Limpopo,South Africa,-24.9987499,29.397119
+Mbibane,0449,0449,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Marble Hall,0450,0450,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Marble Hall Ext 5,0450,-------,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Marble Hall Uit 5,0450,-------,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Voorreg,-------,0451,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.91694,29.05389
+Tweefontein,-------,0452,Xipame,Sekhukhune,Limpopo,South Africa,-24.8375948,29.8511443
+Xipame,-------,0452,Marble Hall,Sekhukhune,Limpopo,South Africa,-25.0259345,28.9764879
+Tsimanyane,-------,0453,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.8405122,29.50352
+Kediketse,-------,0454,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.76868,29.53922
+Strydmag,-------,0455,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Msindo,-------,0456,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Dibasabophelo,-------,0457,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Leeukuil,-------,0457,Dibasabophelo,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Moganyaka,-------,0459,Marble Hall,Sekhukhune,Limpopo,South Africa,-25.001845,29.3860054
+Madlayedwa,-------,0460,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Arabiedam,0464,0464,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.8169693,29.4440492
+Bloedfontein,-------,0465,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Sleutelfontein,-------,0465,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Magelembe,-------,0466,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Ga Mampane,-------,0467,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.7166273,29.5412205
+Ga-mampane,-------,0467,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.7166273,29.5412205
+Mpharangope,-------,0468,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Groblersdal,0470,0470,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.167361,29.3986919
+Legolaneng,-------,0470,Groblersdal,Sekhukhune,Limpopo,South Africa,-24.9677282,29.6180407
+Seven Stad,-------,0471,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.7217442,29.4109177
+Siyabuswa,0472,0472,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Siyabuswa Section C,0472,0472,Marble Hall,Sekhukhune,Limpopo,South Africa,-25.1099506,29.0714805
+Siyabuswa Seksie C,0472,0472,Marble Hall,Sekhukhune,Limpopo,South Africa,-25.1099506,29.0714805
+Valfontein,-------,0472,Valfontein,Sekhukhune,Limpopo,South Africa,-23.756696,28.7562394
+Motetema,-------,0473,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.0948774,29.4600072
+Boleu,-------,0474,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.2302778,29.5241667
+Tafelkop,-------,0474,Boleu,Sekhukhune,Limpopo,South Africa,-25.0392323,29.5105511
+Dichoeung,-------,0476,Dichoeung,Sekhukhune,Limpopo,South Africa,-24.6346186,29.4512836
+Moteti,-------,0477,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.2478268,29.0484183
+Keteke,-------,0478,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Maswaneng,-------,0479,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Bela Bela,-------,0480,Warmbaths,Waterberg,Limpopo,South Africa,-24.8844467,28.3287106
+Bela-Bela,0480,0480,Bela-Bela,Waterberg,Limpopo,South Africa,-24.8844467,28.3287106
+Bela-bela Ext 1,0480,-------,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Bela-bela Ext 5,0480,0480,Warmbaths,Waterberg,Limpopo,South Africa,-24.8450587,28.2409671
+Bela-bela Uit 1,0480,-------,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Bela-bela Uit 5,0480,0480,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Tuinteiste,-------,0480,Tuinteiste,Waterberg,Limpopo,South Africa,-23.4012946,29.4179324
+Tuintuiste,0480,0480,Bela-Bela,Waterberg,Limpopo,South Africa,-24.8772874,28.280237
+Warmbad,-------,0480,Warmbaths,Waterberg,Limpopo,South Africa,-24.8450587,28.2409671
+Warmbad,0480,0480,Bela-Bela,Waterberg,Limpopo,South Africa,-24.8450587,28.2409671
+Warmbad Uit 1,0480,-------,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Warmbaths,0480,0480,Bela-Bela,Waterberg,Limpopo,South Africa,-24.8844467,28.3287106
+Warmbaths,-------,0480,Warmbaths,Waterberg,Limpopo,South Africa,-24.8844467,28.3287106
+Warmbaths Ext 1,0480,-------,Warmbaths,Waterberg,Limpopo,South Africa,-24.889933,28.2902563
+Kwalitho,-------,0482,Warmbad,Waterberg,Limpopo,South Africa,-25.1356492,28.6440087
+Radium,0483,0483,Warmbaths,Waterberg,Limpopo,South Africa,-24.8844467,28.3287106
+Syferkuil,-------,0483,Syferkuil,Waterberg,Limpopo,South Africa,-23.862333,29.7281255
+Kgobokwane,-------,0484,Marble Hall,Sekhukhune,Limpopo,South Africa,-25.1339419,29.1099855
+Elandsdoorn,-------,0485,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.3099001,29.2131896
+Elandsdoring,-------,0485,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.2857206,29.1880854
+Leeupoort,-------,0486,Thabazimbi,Waterberg,Limpopo,South Africa,-24.9,27.716667
+Maroela,-------,0487,Thabazimbi,Waterberg,Limpopo,South Africa,-24.595349,27.405919
+Babethu,-------,0488,Babethu,Waterberg,Limpopo,South Africa,-23.4012946,29.4179324
+Makekeng,-------,0489,Makekeng,Waterberg,Limpopo,South Africa,-23.9477094,28.6162687
+Hereford,-------,0490,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.1638326,29.3963596
+Tshilwaneng,-------,0491,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.167361,29.3986919
+Tlounane,-------,0492,Warmbaths,Sekhukhune,Limpopo,South Africa,-24.889933,28.2902563
+Rooiberg,-------,0500,Thabazimbi,Waterberg,Limpopo,South Africa,-24.7740261,27.7388034
+Modimolle,-------,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Modimolle Ext 8,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Modimolle Uit 8,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Nylstroom,-------,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Nylstroom Ext 11,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Nylstroom Ext 8,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Nylstroom Uit 11,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Nylstroom Uit 8,0510,0510,Nylstroom,Waterberg,Limpopo,South Africa,-24.7095708,28.3987842
+Phahameng,-------,0510,Nylstroom,Waterberg,Limpopo,South Africa,-29.1560061,26.2407974
+Alma,-------,0512,Nylstroom,Waterberg,Limpopo,South Africa,-24.4840629,28.0749565
+Rankin's Pass,-------,0513,Nylstroom,Waterberg,Limpopo,South Africa,-24.533333,27.916667
+Atoom,-------,0514,Nylstroom,Waterberg,Limpopo,South Africa,-24.55,28.3
+Kokanje,-------,0515,Nylstroom,Waterberg,Limpopo,South Africa,-24.6842177,28.3909035
+Pitinyana,-------,0516,Nylstroom,Waterberg,Limpopo,South Africa,-24.8000799,28.47367
+Katjiebane,-------,0517,Nylstroom,Waterberg,Limpopo,South Africa,-25.0155533,28.6352302
+Vaalwater,-------,0530,Vaalwater,Waterberg,Limpopo,South Africa,-24.2971536,28.1151939
+Bulgerivier,-------,0531,Ellisras,Waterberg,Limpopo,South Africa,-24.129561,27.711832
+Elmeston,-------,0532,Ellisras,Waterberg,Limpopo,South Africa,-23.6664659,27.7448285
+Steenbokpan,-------,0533,Ellisras,Waterberg,Limpopo,South Africa,-23.75,27.383333
+Afguns,0534,0534,Ellisras,Waterberg,Limpopo,South Africa,-23.8299834,27.6758427
+Limpopodraai,0536,0536,Ellisras,Waterberg,Limpopo,South Africa,-23.371504,27.589534
+Gedenk,0537,0537,Vaalwater,Waterberg,Limpopo,South Africa,-24.2971536,28.1151939
+Visgat,-------,0539,Nylstroom,Waterberg,Limpopo,South Africa,-24.0504244,28.0885236
+Melk River,-------,0541,Potgietersrus,Waterberg,Limpopo,South Africa,-23.9833329,28.4
+Melkrivier,-------,0541,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1009405,28.3303924
+Ellisras,0555,0555,Ellisras,Waterberg,Limpopo,South Africa,-23.6664659,27.7448285
+Lephalale,0555,0555,Lephalale,Waterberg,Limpopo,South Africa,-23.6664659,27.7448285
+Waterkloof,0555,-------,Ellisras,Waterberg,Limpopo,South Africa,-23.6664659,27.7448285
+Enkelbult,0556,0556,Ellisras,Waterberg,Limpopo,South Africa,-23.6546999,27.6197
+Onverwacht,0557,0557,Ellisras,Waterberg,Limpopo,South Africa,-23.683333,27.683333
+Golf Park,0560,-------,Naboomspruit,Waterberg,Limpopo,South Africa,-24.50881,28.70245
+Mookgophong,0560,0560,Mookgophong,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Ext 1,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Ext 2,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Ext 6,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Uit 1,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Uit 2,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Mookgophong Uit 6,0560,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Naboomspruit,-------,0560,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Naboomspruit,0560,0560,Mookgophong,Waterberg,Limpopo,South Africa,-24.5164709,28.7173968
+Boekenhout,-------,0561,Naboomspruit,Waterberg,Limpopo,South Africa,-24.505843,28.722605
+Crecy,-------,0562,Naboomspruit,Waterberg,Limpopo,South Africa,50.252468,1.882892
+Roedtan,-------,0580,Naboomspruit,Waterberg,Limpopo,South Africa,-24.5973189,29.0787196
+Thusang,-------,0580,Roedtan,Waterberg,Limpopo,South Africa,-24.6212228,29.0405375
+Masodi,0600,0646,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1245361,28.9572312
+Mokopane,0601,0600,Mokopane,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane Ext 19,0601,0600,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane Uit 19,0601,0600,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Nylpark,-------,0600,Nylpark,Waterberg,Limpopo,South Africa,-24.1975698,28.9834284
+Potgietersrus,0601,0600,Mokopane,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Akasia,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1762259,28.9950702
+Chroom Park,0601,0656,Potgietersrus,Waterberg,Limpopo,South Africa,-24.2043227,28.9965254
+Impala Park,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1876473,28.9921599
+Mokopane,0601,0600,Mokopane,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane Ext 19,0601,0600,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane Uit 19,0601,0600,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus,0601,0600,Mokopane,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus Ext 24,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus Ext 8,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus Uit 24,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus Uit 8,0601,-------,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Platinum Reef,-------,0602,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Platinumreef,-------,0602,Potgietersrus,Capricorn,Limpopo,South Africa,-24.1771775,29.0018985
+Strekwater,0602,0602,Potgietersrus,Capricorn,Limpopo,South Africa,-24.1771775,29.0018985
+Tinmyne,-------,0603,Potgietersrus,Waterberg,Limpopo,South Africa,-24.033333,28.766667
+Malatane,-------,0604,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Marken,-------,0605,Potgietersrus,Waterberg,Limpopo,South Africa,-23.59371,28.401091
+Overijssel,-------,0606,Potgietersrus,Waterberg,Limpopo,South Africa,52.4387814,6.5016411
+Villa Nora,-------,0607,Potgietersrus,Waterberg,Limpopo,South Africa,-23.583333,28.083333
+Abbotspoort,-------,0608,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Seleka,-------,0609,Potgietersrus,Waterberg,Limpopo,South Africa,-23.221755,27.9043949
+Mapela,0610,0610,Potgietersrus,Waterberg,Limpopo,South Africa,-24.0299246,28.8975431
+Mapela Fase 1,0610,0610,Potgietersrus,Waterberg,Limpopo,South Africa,-24.0313045,28.88977269999999
+Mapela Phase 1,0610,0610,Potgietersrus,Waterberg,Limpopo,South Africa,-24.0313045,28.88977269999999
+Bakenberg,0611,0611,Potgietersrus,Waterberg,Limpopo,South Africa,-23.866667,28.75
+Suswe,-------,0612,Potgietersrus,Waterberg,Limpopo,South Africa,-23.9058333,28.6691667
+Limburg,-------,0613,Potgietersrus,Waterberg,Limpopo,South Africa,-23.810841,28.88892
+Galebelo,-------,0615,Potgietersrus,Waterberg,Limpopo,South Africa,-23.6416169,28.6950172
+Carlsrhue,-------,0616,Nkwe,Waterberg,Limpopo,South Africa,-23.4012946,29.4179324
+Nkwe,-------,0616,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Driekoppies,-------,0617,Rebone,Capricorn,Limpopo,South Africa,-23.2242942,28.7066804
+Monz,-------,0617,Rebone,Waterberg,Limpopo,South Africa,-23.4274444,28.6060578
+Nonparella,-------,0617,Rebone,Waterberg,Limpopo,South Africa,-23.4274444,28.6060578
+Rebone,0617,0617,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1547675,28.9996556
+Steilloop,-------,0617,Steilloop,Waterberg,Limpopo,South Africa,-23.4312667,28.621041
+Treves,-------,0618,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Baltimore,-------,0619,Potgietersrus,Waterberg,Limpopo,South Africa,-23.278,28.431471
+Marnitz,-------,0620,Potgietersrus,Waterberg,Limpopo,South Africa,-23.16556,28.209181
+Tom Burke,0621,0621,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1838999,29.01118
+Swartwater,-------,0622,Potgietersrus,Waterberg,Limpopo,South Africa,-22.85924,28.20717
+Maasstroom,-------,0623,Potgietersrus,Waterberg,Limpopo,South Africa,-22.745529,28.457621
+Usutu,-------,0624,Potgietersrus,Waterberg,Limpopo,South Africa,-22.566667,28.583333
+Diepsloot,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Diepsloot Ext 2,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Diepsloot Uit 2,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Ga Madiba,-------,0626,Mahwelereng,Capricorn,Limpopo,South Africa,-24.1340015,28.9965254
+Ga-madiba,-------,0626,Mahwelereng,Capricorn,Limpopo,South Africa,-24.1340015,28.9965254
+Mahwelereng,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1340015,28.9965254
+Mahwelereng Sone 2,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1340015,28.9965254
+Mahwelereng Sone B,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1340015,28.9965254
+Mahwelereng Zone 1,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1399885,28.9694288
+Mahwelereng Zone 2,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1340015,28.9965254
+Mahwelereng Zone A,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1399885,28.9694288
+Mahwelereng Zone B,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1399885,28.9694288
+Mahwelereng Zone C,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1399885,28.9694288
+Mokopane Ext 17,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane Uit 17,0626,0626,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Koelemansrus,-------,0629,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Sterkrivier,0630,0630,Potgietersrus,Waterberg,Limpopo,South Africa,-24.15,28.733333
+Gompies,0631,0631,Gompies,Capricorn,Limpopo,South Africa,-24.4509799,29.4038
+Koringpunt,0632,0632,Polokwane,Capricorn,Limpopo,South Africa,-24.33722,29.28825
+Basterpad,-------,0633,Mokamole,Waterberg,Limpopo,South Africa,-23.9733186,28.6439288
+Basterspad,-------,0633,Mokamole,Waterberg,Limpopo,South Africa,-23.9025405,28.6250204
+Mokamole,-------,0633,Potgietersrus,Waterberg,Limpopo,South Africa,-23.9733186,28.6439288
+Ga Kgobudi,-------,0634,Potgietersrus,Waterberg,Limpopo,South Africa,32.1656221,-82.9000751
+Ga-kgobudi,-------,0634,Potgietersrus,Capricorn,Limpopo,South Africa,32.1656221,-82.9000751
+Phohlonya,-------,0635,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Marulakololo,-------,0636,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1876611,29.0138621
+Rapadi,-------,0637,Potgietersrus,Waterberg,Limpopo,South Africa,-23.5935081,28.5287256
+Ramatatane,-------,0638,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Nkidikitlana,-------,0639,Rebone,Waterberg,Limpopo,South Africa,-23.5588804,28.6002227
+Hlogo-ya-nku,-------,0640,Hlogo-ya-nku,Waterberg,Limpopo,South Africa,-23.4012946,29.4179324
+Babirwa,-------,0641,Babirwa,Waterberg,Limpopo,South Africa,-23.8995058,29.4779532
+Matlalane,-------,0642,Rebone,Waterberg,Limpopo,South Africa,-23.4274444,28.6060578
+Ga Ramela,-------,0643,Potgietersrus,Waterberg,Limpopo,South Africa,-23.5243764,28.8800691
+Ga-ramela,-------,0643,Potgietersrus,Capricorn,Limpopo,South Africa,-23.5243764,28.8800691
+Skrikfontein,-------,0644,Potgietersrus,Waterberg,Limpopo,South Africa,-23.6895724,28.5954427
+Polar Park,-------,0645,Potgietersrus,Waterberg,Limpopo,South Africa,-23.8748869,29.70535
+Masodi,0600,0646,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1245361,28.9572312
+Wydhoek,-------,0647,Potgietersrus,Waterberg,Limpopo,South Africa,-25.3,27.083333
+Nelly,-------,0648,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Ga Lekalakala,-------,0649,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1322015,28.9790625
+Ga-lekalakala,-------,0649,Potgietersrus,Capricorn,Limpopo,South Africa,-24.15,28.9666667
+Vaaltyn,-------,0650,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1471999,28.95633
+Sekgakgapeng,-------,0651,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1712765,28.9732411
+Phalala,-------,0652,Potgietersrus,Waterberg,Limpopo,South Africa,-23.7161533,28.222411
+Cracouw Farm,-------,0654,Potgietersrus,Capricorn,Limpopo,South Africa,-23.41797,28.80433
+Chroom Park,0601,0656,Potgietersrus,Waterberg,Limpopo,South Africa,-24.2043227,28.9965254
+Mokopane West,-------,0657,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Mokopane-wes,-------,0657,Potgietersrus,Capricorn,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus West,-------,0657,Potgietersrus,Waterberg,Limpopo,South Africa,-24.1771775,29.0018985
+Potgietersrus-Wes,-------,0657,Potgietersrus,Waterberg,Limpopo,South Africa,-24.2059973,28.99988519999999
+Ga Mathapo,-------,0658,Potgietersrus,Waterberg,Limpopo,South Africa,-23.5244674,28.8327578
+Ga-mathapo,-------,0658,Potgietersrus,Capricorn,Limpopo,South Africa,-23.5244674,28.8327578
+Tshamahansi,-------,0659,Potgietersrus,Waterberg,Limpopo,South Africa,-24.0780968,28.9790625
+Taueatswala,-------,0660,Potgietersrus,Waterberg,Limpopo,South Africa,-23.4704646,28.5535342
+Tolwe,-------,0690,Potgietersrus,Waterberg,Limpopo,South Africa,-23.014311,28.55826
+Moletlane,-------,0697,Polokwane,Capricorn,Limpopo,South Africa,-23.911455,29.49913
+Annadale,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8793397,29.4484015
+Bendor Park,0699,0713,Polokwane,Capricorn,Limpopo,South Africa,-23.887633,29.4861164
+Bendor Park Ext 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.888216,29.4494896
+Bendor Park Ext 17,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8913958,29.4870201
+Bendor Park Ext 23,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.887633,29.4861164
+Bendor Park Ext 26,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8834584,29.4335305
+Bendor Park Ext 6,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9116368,29.4745129
+Bendor Park Ext 7,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8810948,29.4658096
+Bendor Park Ext 8,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8712475,29.4484015
+Bendor Park Uit 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.887633,29.4861164
+Bendor Park Uit 17,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8979,29.47759
+Bendor Park Uit 23,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8974,29.47832
+Bendor Park Uit 26,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.89828,29.47807
+Bendor Park Uit 6,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8993851,29.4759961
+Bendor Park Uit 7,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.887633,29.4861164
+Bendor Park Uit 8,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.89854,29.47631
+Bloedrivier,-------,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.8954539,29.3177657
+Blood River,-------,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.8178693,29.3743939
+Capricorn,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Doornbult,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8195562,29.4815005
+Eduan Park,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.88278,29.46225
+Emdo Park,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.867804,29.428758
+Emdopark,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.867804,29.428758
+Famo Park,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Faunapark,0699,0787,Polokwane,Capricorn,Limpopo,South Africa,-23.9065096,29.4861164
+Flora Park,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9123394,29.49046749999999
+Florapark,0699,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.9123394,29.49046749999999
+Florapark Ext 11,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9123394,29.49046749999999
+Florapark Uit 11,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9123394,29.49046749999999
+Futura,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Futura Ext 18,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8722132,29.4357068
+Futura Uit 18,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Gamamadila,-------,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.7963605,29.2175487
+Hospitaalpark,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8957941,29.4600072
+Industria,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8891439,29.448471
+Industria Ext 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8891439,29.448471
+Industria Ext 20,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8891439,29.448471
+Industria Uit 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.88663,29.45213
+Industria Uit 20,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.88736,29.45257
+Ivy Park,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Ext 17,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Ext 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.889868,29.4480388
+Ivy Park Ext 21,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Ext 22,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9223671,29.442421
+Ivy Park Uit 17,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Uit 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Uit 21,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Uit 22,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivydale,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9361711,29.4478628
+Janalet,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Laboria Ind,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.87222,29.44472
+Ladanna,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.877779,29.444996
+Ladine,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.891355,29.436844
+Ladine Ext 16,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.891355,29.436844
+Ladine Uit 16,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8901499,29.4402
+Madiba Park,0699,0795,Seshego,Capricorn,Limpopo,South Africa,-23.8654749,29.407683
+Moregloed,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.90408,29.47338
+Nirvana,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9168332,29.436795
+Nirvana Ext 3,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.9168332,29.436795
+Nirvana Uit 3,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.9168332,29.436795
+Pemmo Park,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Peninapark,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9328975,29.4534791
+Pietersburg,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Pietersburg Ext 29,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8689654,29.4302659
+Pietersburg North,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Pietersburg Uit 29,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Pietersburg-Noord,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.9001898,29.4563802
+Polokwane,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Polokwane Ext 29,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8689654,29.4302659
+Polokwane Ext 3,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.8900454,29.4520284
+Polokwane Ext 71,0699,-------,Polokwane,Vhembe,Limpopo,South Africa,-23.8457787,29.3871645
+Polokwane Ext 76,0699,0700,Polokwane,Vhembe,Limpopo,South Africa,-23.8404919,29.387254
+Polokwane North,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Polokwane Uit 29,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Polokwane Uit 3,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.8961708,29.4486263
+Polokwane Uit 71,0699,-------,Polokwane,Vhembe,Limpopo,South Africa,-23.8457787,29.3871645
+Polokwane Uit 76,0699,0700,Polokwane,Vhembe,Limpopo,South Africa,-23.8404919,29.387254
+Polokwane-Noord,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Premier Park,-------,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.93599,29.44986
+Ramangwana,-------,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Savannah,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9039221,29.4879771
+Seshego Ext 73,0699,0795,Polokwane,Vhembe,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Sone 1,0699,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Sone 2,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.849483,29.3903821
+Seshego Sone 3,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8417525,29.3860211
+Seshego Sone 4,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8413769,29.378926
+Seshego Sone 5b,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Sone 8,0699,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.867962,29.3626677
+Seshego Uit 73,0699,0795,Polokwane,Vhembe,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 1,0699,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 2,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.849483,29.3903821
+Seshego Zone 3,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8417525,29.3860211
+Seshego Zone 4,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8413769,29.378926
+Seshego Zone 5b,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 8,0699,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.867962,29.3626677
+Seshego Zone 8,0699,-------,Seshego,Capricorn,Limpopo,South Africa,-23.867962,29.3626677
+Sterpark,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9026562,29.4830565
+Superbia,0699,0759,Polokwane,Capricorn,Limpopo,South Africa,-23.9085295,29.44018969999999
+Superbia Ext 20,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9085295,29.44018969999999
+Superbia Uit 20,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9085295,29.44018969999999
+Thornhill Plaza,0699,0882,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Tshibedi,-------,0699,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Welgelegen,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.893147,29.4694361
+Welgelegen Ext 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.888216,29.4494896
+Welgelegen Uit 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.893147,29.4694361
+Wesburg,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Westenburg,0699,0752,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Ext 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.888216,29.4494896
+Westenburg Ext 14,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.8976441,29.4616391
+Westenburg Ext 15,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9002865,29.4465881
+Westenburg Ext 17,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Ext 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.889868,29.4480388
+Westenburg Uit 1,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Uit 14,0699,0699,Polokwane,Vhembe,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Uit 15,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Uit 17,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Westenburg Uit 19,0699,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Woodlands Estate,0699,0882,Polokwane,Vhembe,Limpopo,South Africa,-23.880029,29.4998944
+Woodlands Landgoed,0699,0882,Polokwane,Vhembe,Limpopo,South Africa,-23.880029,29.4998944
+Ivy Park Ext 17,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Ext 21,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Uit 17,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Ivy Park Uit 21,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.9188394,29.4433238
+Polokwane,0699,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Polokwane Ext 76,0699,0700,Polokwane,Vhembe,Limpopo,South Africa,-23.8404919,29.387254
+Polokwane Uit 76,0699,0700,Polokwane,Vhembe,Limpopo,South Africa,-23.8404919,29.387254
+Thusanong,-------,0700,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Eerstegoud,-------,0701,Polokwane,Capricorn,Limpopo,South Africa,-23.9833329,29.35
+Leokaneng,-------,0702,Polokwane,Capricorn,Limpopo,South Africa,-23.5273956,29.0256257
+Munnik,-------,0703,Polokwane,Capricorn,Limpopo,South Africa,-23.8902005,29.492188
+Emdo Park,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.867804,29.428758
+Emdopark,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.867804,29.428758
+Ladanna,0699,0704,Polokwane,Capricorn,Limpopo,South Africa,-23.877779,29.444996
+Ga Maraba,-------,0705,Polokwane,Capricorn,Limpopo,South Africa,-23.7811764,29.16668379999999
+Ga-maraba,-------,0705,Polokwane,Vhembe,Limpopo,South Africa,-23.7811764,29.16668379999999
+Kalkspruit,-------,0705,Ga-Maraba,Capricorn,Limpopo,South Africa,-23.7811764,29.16668379999999
+Mamadila,-------,0705,Polokwane,Capricorn,Limpopo,South Africa,-23.7963605,29.2175487
+Sepanapudi,-------,0705,Ga-Maraba,Capricorn,Limpopo,South Africa,-23.8359677,29.1303412
+Nuwe Smitsdorp,-------,0706,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Nuwe-smitsdorp,-------,0706,Polokwane,Vhembe,Limpopo,South Africa,-23.8961708,29.4486263
+Bergnek,-------,0707,Polokwane,Capricorn,Limpopo,South Africa,-24.183333,29.333333
+Sandfontein,-------,0708,Polokwane,Capricorn,Limpopo,South Africa,-25.1861971,27.2646723
+Chokoe,-------,0709,Koloti,Capricorn,Limpopo,South Africa,-23.731829,29.3076098
+Koloti,0709,0709,Polokwane,Capricorn,Limpopo,South Africa,-23.731829,29.3076098
+Molejie,-------,0709,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Moletjie,-------,0709,Polokwane,Vhembe,Limpopo,South Africa,-23.8961708,29.4486263
+Moletsi,0709,0709,Koloti,Capricorn,Limpopo,South Africa,-23.731829,29.3076098
+Fair Lourie,-------,0710,Lonsdale,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Leesdale,-------,0710,Lonsdale,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Lonsdale,-------,0710,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Rapitsi,-------,0710,Lonsdale,Capricorn,Limpopo,South Africa,-23.5973794,29.1070773
+Ntsima,-------,0711,Polokwane,Capricorn,Limpopo,South Africa,-23.8277624,29.7324692
+Addney,-------,0712,Polokwane,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Bendor Park,0699,0713,Polokwane,Capricorn,Limpopo,South Africa,-23.887633,29.4861164
+Kalkbank,-------,0713,Polokwane,Capricorn,Limpopo,South Africa,-23.533333,29.35
+Gakolopo,-------,0714,Neandertal,Capricorn,Limpopo,South Africa,-23.4737211,29.1863052
+Kanana,-------,0714,Neandertal,Capricorn,Limpopo,South Africa,-23.4560996,29.1434255
+Neandertal,-------,0714,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Dendron,0715,0715,Dendron,Capricorn,Limpopo,South Africa,-23.369633,29.3221307
+Babirwa,-------,0716,Polokwane,Waterberg,Limpopo,South Africa,-23.8995058,29.4779532
+Indermark,-------,0717,Polokwane,Capricorn,Limpopo,South Africa,-23.0834061,29.1070773
+Eldorado,-------,0718,Raditshaba,Capricorn,Limpopo,South Africa,-22.8354008,28.849485
+Raditshaba,-------,0718,Polokwane,Capricorn,Limpopo,South Africa,-23.890285,29.4537987
+Taaibos,-------,0718,Raditshaba,Capricorn,Limpopo,South Africa,-22.8354008,28.849485
+Wegdraai,-------,0718,Bochum,Capricorn,Limpopo,South Africa,-22.8856723,28.7110539
+Kopermyn,-------,0719,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Maja,-------,0719,Polokwane,Capricorn,Limpopo,South Africa,-24.1630564,29.5542683
+Gasetati,-------,0720,Polokwane,Capricorn,Limpopo,South Africa,-23.6683687,29.3468128
+Dikgale,0721,0721,Polokwane,Capricorn,Limpopo,South Africa,-23.7333329,29.783333
+Ga Mokgopa,-------,0721,Dikgale,Capricorn,Limpopo,South Africa,-26.1,26.816667
+Ga-mokgopa,-------,0721,Dikgale,Capricorn,Limpopo,South Africa,-26.1,26.816667
+Dimamotsa,-------,0722,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Rozano,-------,0723,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Leshwane,0724,0724,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Houtbosdorp,-------,0725,Polokwane,Capricorn,Limpopo,South Africa,-23.82094,29.90139
+Gamothiba,-------,0726,Polokwane,Capricorn,Limpopo,South Africa,-23.8819957,29.6679818
+Maboyi,-------,0727,Sovenga,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Mankweng,0727,0727,Polokwane,Capricorn,Limpopo,South Africa,-23.8836683,29.7078785
+Sovenga,0727,0727,Polokwane,Capricorn,Limpopo,South Africa,-23.8863192,29.7165417
+Thabakgone,-------,0727,Boyne,Capricorn,Limpopo,South Africa,-23.9509263,29.7990555
+Tshware,-------,0727,Sovenga,Capricorn,Limpopo,South Africa,-23.8888188,29.73855
+Turfloop,-------,0727,Sovenga,Capricorn,Limpopo,South Africa,-23.8888188,29.73855
+Boyne,-------,0728,Polokwane,Capricorn,Limpopo,South Africa,-23.9509263,29.7990555
+Moria City,-------,0728,Boyne,Capricorn,Limpopo,South Africa,-23.9404504,29.7882012
+Rammobola,-------,0729,Lonsdale,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Haenertsburg,-------,0730,Polokwane,Mopani,Limpopo,South Africa,-23.9447206,29.938638
+Magoebaskloof,-------,0731,Polokwane,Mopani,Limpopo,South Africa,-23.8640273,30.0068587
+Ga Molepo,-------,0732,Mphogodiba,Capricorn,Limpopo,South Africa,-24.0347517,29.803397
+Ga-molepo,-------,0732,Mphogodiba,Capricorn,Limpopo,South Africa,-24.0347517,29.803397
+Mphogodiba,-------,0732,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mathabatha,-------,0733,Polokwane,Capricorn,Limpopo,South Africa,-23.7155871,29.4064039
+Ngwanamaya,-------,0734,Tholongwe,Capricorn,Limpopo,South Africa,-23.9678351,29.687578
+Tholongwe,-------,0734,Polokwane,Capricorn,Limpopo,South Africa,-23.9678351,29.687578
+Mogodumo,-------,0735,Polokwane,Capricorn,Limpopo,South Africa,-24.2072222,29.5302778
+Bolopa,-------,0736,Mphahlele,Capricorn,Limpopo,South Africa,-24.2735623,29.6520893
+Maijane,-------,0736,Mphahlele,Capricorn,Limpopo,South Africa,-24.3145299,29.6714869
+Mphahlele,0736,0736,Polokwane,Capricorn,Limpopo,South Africa,-23.917007,29.45783
+Lebowakgomo,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3109609,29.4753119
+Lebowakgomo Sone F,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3109609,29.4753119
+Lebowakgomo Sone P,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3109609,29.4753119
+Lebowakgomo Zone B,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3086085,29.4736517
+Lebowakgomo Zone F,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3002298,29.5426703
+Lebowakgomo Zone P,0737,0737,Polokwane,Capricorn,Limpopo,South Africa,-24.3002298,29.5426703
+Mmafefe,-------,0738,Polokwane,Capricorn,Limpopo,South Africa,-23.8982525,29.45037
+Apel,-------,0739,Polokwane,Capricorn,Limpopo,South Africa,-24.4208513,29.752738
+Gankwana,-------,0740,Polokwane,Capricorn,Limpopo,South Africa,-24.4183406,29.7831356
+Lefalane,-------,0741,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Seshego,0741,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone D,0741,0741,Polokwane,Capricorn,Limpopo,South Africa,-23.849483,29.3903821
+Luthuli Zone 9a,0742,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8548532,29.413615
+Seshego,0741,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Sone 8,0699,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.867962,29.3626677
+Seshego Zone 5,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8454478,29.3536405
+Seshego Zone 5e,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 8,0699,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.867962,29.3626677
+Seshego Zone E,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Gamatlapa,-------,0743,Mashashane,Capricorn,Limpopo,South Africa,-23.9386111,29.1313889
+Mashashane,0743,0743,Polokwane,Capricorn,Limpopo,South Africa,-23.9386111,29.1313889
+Naledi,-------,0743,Mashashane,Capricorn,Limpopo,South Africa,-23.9386111,29.1313889
+Naledi Village,-------,0743,Mashashane,Capricorn,Limpopo,South Africa,-23.9386111,29.1313889
+Utjane,-------,0743,Mashashane,Capricorn,Limpopo,South Africa,-23.9386111,29.1313889
+Segopje,0744,0744,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Chuenespoort,0745,0745,Polokwane,Capricorn,Limpopo,South Africa,-24.2005697,29.4788643
+Lebowakgomo Zone A,0745,0745,Chuenespoort,Capricorn,Limpopo,South Africa,-24.2005697,29.4788643
+Mamaola,-------,0745,Chuenespoort,Capricorn,Limpopo,South Africa,-24.2005697,29.4788643
+Molapo Matebele,-------,0745,Chuenespoort,Capricorn,Limpopo,South Africa,-24.240594,29.527641
+Tsiame,-------,0745,Tsiame,Capricorn,Limpopo,South Africa,6.0004373,0.8585775
+Bakone,-------,0746,Polokwane,Capricorn,Limpopo,South Africa,-23.848505,29.380382
+Dibeng,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.7753685,28.9310295
+Ga Magoai,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.7712946,29.0634479
+Ga Mashashane,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.9431974,29.1216176
+Ga-magoai,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.7712946,29.0634479
+Ga-mashashane,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.9431974,29.1216176
+Gamatlala,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.6879673,29.0529565
+Madietane,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.8016944,29.0008908
+Phetole,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.81045,28.9812455
+Phoffu,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.80492,28.92592
+Semaneng,-------,0746,Bakone,Capricorn,Limpopo,South Africa,-23.7502178,28.9746965
+Ga Rankuwe,-------,0747,Polokwane,Capricorn,Limpopo,South Africa,-25.6161437,28.0205655
+Ga-rankuwe,-------,0747,Polokwane,Vhembe,Limpopo,South Africa,-25.6161437,28.0205655
+Chipana Village,0748,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Juno,0748,0748,Polokwane,Capricorn,Limpopo,South Africa,-23.896886,29.487546
+Lekhureng,-------,0748,Juno,Capricorn,Limpopo,South Africa,-23.625872,29.0270806
+Tibanefontein,-------,0748,Juno,Capricorn,Limpopo,South Africa,-23.625872,29.0270806
+Atok,0749,0749,Polokwane,Capricorn,Limpopo,South Africa,-24.3011757,29.89019789999999
+Ga Monotwane,-------,0749,Atok,Capricorn,Limpopo,South Africa,32.1656221,-82.9000751
+Ga-monotwane,-------,0749,Atok,Capricorn,Limpopo,South Africa,32.1656221,-82.9000751
+Mooilek,-------,0749,Atok,Capricorn,Limpopo,South Africa,-24.3011757,29.89019789999999
+Pietersburg North,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Pietersburg-Noord,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.9001898,29.4563802
+Polokwane North,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Polokwane-Noord,0699,0750,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Ga Mabotja,-------,0751,Polokwane,Capricorn,Limpopo,South Africa,-23.5642444,29.1811885
+Ga-mabotja,-------,0751,Polokwane,Vhembe,Limpopo,South Africa,-23.5642444,29.1811885
+Mabotja,-------,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8030238,29.3690853
+Makgofe Supermark,-------,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Makgofe Supermarket,-------,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Mokgokong,0751,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8226101,29.3294658
+Seshego Sone 1,0699,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 1,0699,0751,Seshego,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone 5,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8454478,29.3536405
+Seshego Zone 5e,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Zone E,0751,0742,Polokwane,Capricorn,Limpopo,South Africa,-23.8476768,29.3932622
+Sebayeng,0752,0752,Polokwane,Capricorn,Limpopo,South Africa,-23.7658358,29.6986103
+Westenburg,0699,0752,Polokwane,Capricorn,Limpopo,South Africa,-23.9045587,29.4309914
+Ga Makibelo,-------,0753,Manyama,Capricorn,Limpopo,South Africa,-23.662283,29.3925365
+Ga-makibelo,-------,0753,Manyama,Capricorn,Limpopo,South Africa,-23.662283,29.3925365
+Manyama,-------,0753,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Selota,-------,0754,Polokwane,Capricorn,Limpopo,South Africa,-23.9862679,29.5107708
+Tooseng,-------,0755,Polokwane,Capricorn,Limpopo,South Africa,-24.447363,29.560067
+Chebeng,-------,0756,Polokwane,Capricorn,Limpopo,South Africa,-23.8179635,29.2698489
+Ga Selolo,-------,0757,Bakone,Capricorn,Limpopo,South Africa,-23.746652,28.9921599
+Ga-selolo,-------,0757,Bakone,Capricorn,Limpopo,South Africa,-23.746652,28.9921599
+Hwibi,-------,0758,Juno,Capricorn,Limpopo,South Africa,-23.6725182,28.8975431
+Doornspruit,-------,0759,Superbia,Capricorn,Limpopo,South Africa,-24.894136,29.6658513
+Superbia,0699,0759,Polokwane,Capricorn,Limpopo,South Africa,-23.9085295,29.44018969999999
+Kgohloane,-------,0760,Polokwane,Capricorn,Limpopo,South Africa,-23.7919488,29.3687687
+Lenting,-------,0761,Mphahlele,Capricorn,Limpopo,South Africa,-24.4344806,29.51947139999999
+Lesetsi,-------,0762,Mphahlele,Capricorn,Limpopo,South Africa,-24.3529923,29.7179897
+Makgaba,-------,0763,Sovenga,Capricorn,Limpopo,South Africa,-23.8888188,29.73855
+Matshelapata,-------,0764,Boyne,Capricorn,Limpopo,South Africa,-23.9509263,29.7990555
+Mmaboi,-------,0765,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mogano,-------,0766,Boyne,Capricorn,Limpopo,South Africa,-23.9509263,29.7990555
+Monyoaneng,-------,0767,Lonsdale,Capricorn,Limpopo,South Africa,-23.6233085,29.2509649
+Monywaneng,-------,0767,Lonsdale,Capricorn,Limpopo,South Africa,-23.6233085,29.2509649
+Morabi,-------,0768,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Thogwaneng,-------,0769,Polokwane,Capricorn,Limpopo,South Africa,-24.1858155,29.472601
+Utsane,-------,0770,Polokwane,Capricorn,Limpopo,South Africa,-23.9253624,29.1666523
+Bonn,-------,0771,Letsitele,Mopani,Limpopo,South Africa,50.73743,7.0982068
+Coblentz,-------,0772,Letsitele,Mopani,Limpopo,South Africa,-23.8888182,30.3882242
+Ga Mphela,-------,0773,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Ga-mphela,-------,0773,Polokwane,Vhembe,Limpopo,South Africa,-23.8961708,29.4486263
+Kgabo Park,0774,0774,Polokwane,Capricorn,Limpopo,South Africa,-23.6396146,29.1245896
+Kgabopark,0774,0774,Polokwane,Capricorn,Limpopo,South Africa,-23.6396146,29.1245896
+Tibedi,-------,0774,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Garankapole,-------,0775,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Ntloloane,-------,0776,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Makhudu,-------,0777,Makhudu,Capricorn,Limpopo,South Africa,-23.0462413,29.9046562
+Maribana,-------,0778,Superbia,Capricorn,Limpopo,South Africa,-23.5134767,29.2001113
+Mmakgodu,-------,0779,Superbia,Capricorn,Limpopo,South Africa,-23.433333,29.466667
+Ambergate,-------,0780,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Galedwaba,-------,0781,Polokwane,Capricorn,Limpopo,South Africa,-24.2793774,29.4197821
+Balopa,-------,0782,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Lamola,-------,0783,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mmotong,0784,0784,Seshego,Capricorn,Limpopo,South Africa,-23.9043712,29.4504724
+Mashite,-------,0785,Mphahlele,Sekhukhune,Limpopo,South Africa,-24.3086953,29.7049569
+Mogaladi,-------,0786,Dendron,Sekhukhune,Limpopo,South Africa,-24.7646744,29.5368709
+Faunapark,0699,0787,Polokwane,Capricorn,Limpopo,South Africa,-23.9065096,29.4861164
+Manthata,-------,0788,Superbia,Capricorn,Limpopo,South Africa,-23.3068114,29.2393427
+Gaphagodi,-------,0789,Polokwane,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Bochum,-------,0790,Bochum,Capricorn,Limpopo,South Africa,-23.2703182,29.1259795
+Gidion,-------,0790,Bochum,Capricorn,Limpopo,South Africa,-23.2724351,29.1288873
+Thorp Village,-------,0790,Bochum,Capricorn,Limpopo,South Africa,-22.9483015,28.6891853
+My Darling,-------,0791,Polokwane,Capricorn,Limpopo,South Africa,-23.0896635,28.804326
+Mabale,-------,0792,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Gakobe,-------,0793,Polokwane,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Sekhung,-------,0794,Polokwane,Capricorn,Limpopo,South Africa,-23.1455611,28.7788273
+Madiba Park,0699,0795,Seshego,Capricorn,Limpopo,South Africa,-23.8654749,29.407683
+Seshego Ext 73,0699,0795,Polokwane,Vhembe,Limpopo,South Africa,-23.8476768,29.3932622
+Seshego Uit 73,0699,0795,Polokwane,Vhembe,Limpopo,South Africa,-23.8476768,29.3932622
+Mahwibitsane,-------,0796,Polokwane,Capricorn,Limpopo,South Africa,-23.7004729,29.309062
+Ramphele,-------,0797,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Magoai,-------,0798,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Madibeng,-------,0799,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Bandelierkop,-------,0800,Polokwane,Vhembe,Limpopo,South Africa,-23.32103,29.806141
+Mamaolo,-------,0801,Polokwane,Capricorn,Limpopo,South Africa,-24.3006846,29.5658654
+Sekgopo,-------,0802,Polokwane,Mopani,Limpopo,South Africa,-23.6281719,29.9639357
+Garakgoatha,-------,0803,Garakgoatha,Capricorn,Limpopo,South Africa,-24.3533065,29.3685878
+Khujwana,-------,0804,Khujwana,Mopani,Limpopo,South Africa,-23.9442173,30.225308
+Dithabaneng,-------,0805,Polokwane,Capricorn,Limpopo,South Africa,-24.3616193,29.5832593
+Maleboho,-------,0806,Polokwane,Capricorn,Limpopo,South Africa,-22.8985628,28.8322207
+Diepsloot,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Diepsloot Ext 2,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Diepsloot Uit 2,0626,0807,Bochum,Capricorn,Limpopo,South Africa,-25.9395977,28.0127534
+Sengatane,-------,0808,Polokwane,Capricorn,Limpopo,South Africa,-23.8283034,29.2916352
+Mushung,-------,0809,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Itereleng,-------,0810,Soekmekaar,Capricorn,Limpopo,South Africa,-23.5107651,29.9277947
+Morebeng,0810,0810,Soekmekaar,Capricorn,Limpopo,South Africa,-23.5107651,29.9277947
+Soekmekaar,0810,0810,Soekmekaar,Capricorn,Limpopo,South Africa,-23.5107651,29.9277947
+Mokomene,-------,0811,Mokomene,Capricorn,Limpopo,South Africa,-23.4688397,29.81572409999999
+Ramokgopa,0811,0811,Polokwane,Capricorn,Limpopo,South Africa,-23.466667,29.816667
+Dwars River,0812,0812,Polokwane,Capricorn,Limpopo,South Africa,-23.45,29.75
+Dwarsrivier,0812,0812,Polokwane,Capricorn,Limpopo,South Africa,-24.9368851,30.12761129999999
+Gamasubelele,-------,0812,Dwars River,Capricorn,Limpopo,South Africa,-23.45,29.75
+Sephukubje,-------,0813,Polokwane,Mopani,Limpopo,South Africa,-23.8982525,29.45037
+Paulusweg,-------,0814,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Senwamokgope,-------,0815,Duiwelskloof,Mopani,Limpopo,South Africa,-23.4092354,30.1603737
+Phangweni,0816,0816,Malamulele,Vhembe,Limpopo,South Africa,-22.9981571,30.69611549999999
+Mulima,0817,0817,Mulima,Vhembe,Limpopo,South Africa,-23.3046602,30.0448566
+Eisleben,-------,0818,Polokwane,Capricorn,Limpopo,South Africa,-23.5215465,29.8381239
+Mabjaneng,-------,0819,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Matjeka,-------,0820,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mashobohleng,-------,0821,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mashamaite,-------,0822,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Maponto,-------,0823,Polokwane,Capricorn,Limpopo,South Africa,-23.8982525,29.45037
+Coopers Park,-------,0824,Polokwane,Capricorn,Limpopo,South Africa,-23.9010219,29.45151599999999
+Mooketsi,0825,0825,Polokwane,Mopani,Limpopo,South Africa,-23.5917187,30.0994035
+Gazankulu,0826,-------,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Giyani,0826,0826,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Makhosha,-------,0826,Giyani,Mopani,Limpopo,South Africa,-23.2567981,30.74792649999999
+Savulani,-------,0826,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Shimange,-------,0826,Shimange,Mopani,Limpopo,South Africa,-23.3925703,30.5897832
+Maphalle,-------,0827,Molototsi,Mopani,Limpopo,South Africa,-23.4642415,30.3118375
+Molototsi,0827,0827,Giyani,Mopani,Limpopo,South Africa,-23.5029455,30.6537095
+Mmakwara,-------,0828,Bochum,Capricorn,Limpopo,South Africa,-23.2724351,29.1288873
+Hatshama,-------,0829,Giyani,Mopani,Limpopo,South Africa,-23.253728,30.7503633
+Shiviti,-------,0830,Shiviti,Mopani,Limpopo,South Africa,-23.4012946,29.4179324
+Eka Homu,-------,0831,Malamulele,Vhembe,Limpopo,South Africa,-23.3120551,30.7953305
+Masingita,0832,0832,Giyani,Mopani,Limpopo,South Africa,-23.3102501,30.6946495
+Dzumeri,-------,0833,Malamulele,Vhembe,Limpopo,South Africa,-23.5627408,30.7213436
+Pipa,-------,0834,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Duiwelskloof,-------,0835,Duiwelskloof,Mopani,Limpopo,South Africa,-23.6568898,30.1762494
+Semorishi,-------,0836,Juno,Capricorn,Limpopo,South Africa,-23.6253,28.95682
+Modjadji,-------,0837,Modjadji,Mopani,Limpopo,South Africa,-23.6359857,30.3463404
+Gakgapane,0838,0838,Gakgapane,Mopani,Limpopo,South Africa,-23.645364,30.2238654
+Mokwathi,-------,0838,Gakgapane,Mopani,Limpopo,South Africa,-23.5828481,30.5825901
+Kuranta,-------,0839,Giyani,Mopani,Limpopo,South Africa,-23.4589398,30.51783429999999
+Nkomo,-------,0840,Giyani,Mopani,Limpopo,South Africa,-23.4107841,30.7838403
+Makosha,-------,0841,Giyani,Mopani,Limpopo,South Africa,-23.2567981,30.74792649999999
+Nsavulani,-------,0842,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Xikhumba,-------,0843,Giyani,Mopani,Limpopo,South Africa,-23.500482,30.8872137
+Vuhehli,-------,0844,Giyani,Mopani,Limpopo,South Africa,-23.3989773,30.8872137
+Cracouw Farm,-------,0845,Juno,Capricorn,Limpopo,South Africa,-23.625872,29.0270806
+Mahatlani,-------,0846,Giyani,Vhembe,Limpopo,South Africa,-23.3072476,30.7062535
+Mahekgwe,-------,0847,Gakgapane,Mopani,Limpopo,South Africa,-23.645364,30.2238654
+Gamadikana,-------,0848,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Letswatla,-------,0849,Bochum,Capricorn,Limpopo,South Africa,-23.0170465,28.7052225
+Aquapark,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.820834,30.15026989999999
+Arborpark,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8334285,30.1603737
+Burgersdorp,-------,0850,Tzaneen,Mopani,Limpopo,South Africa,-24.0081982,30.3075124
+Flora Park,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8440503,30.166676
+Florapark,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8440503,30.166676
+Premierpark,-------,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8385926,30.1488264
+Tzaneen,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8319853,30.1358346
+Tzaneen Ext 13,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8319853,30.1358346
+Tzaneen Uit 13,0850,0850,Tzaneen,Mopani,Limpopo,South Africa,-23.8319853,30.1358346
+Deer Park,-------,0852,Tzaneen,Mopani,Limpopo,South Africa,-23.8319853,30.1358346
+Ofcolaco,0854,0854,Tzaneen,Mopani,Limpopo,South Africa,-24.0833333,30.3666667
+Thornhill,-------,0856,Tzaneen,Mopani,Limpopo,South Africa,-23.8831623,29.5042451
+Lenyenye,0857,0857,Tzaneen,Mopani,Limpopo,South Africa,-23.9740575,30.2671377
+Sundyside,-------,0857,Sundyside,Mopani,Limpopo,South Africa,-23.4012946,29.4179324
+Nkuri,-------,0858,Giyani,Mopani,Limpopo,South Africa,-23.2544908,30.5405019
+Tarentaalrand,-------,0859,Tzaneen,Mopani,Limpopo,South Africa,-23.8170209,30.3030639
+Mohlahlareng,-------,0860,Tzaneen,Mopani,Limpopo,South Africa,-24.0093213,30.2714642
+Mokgwati,-------,0861,Tzaneen,Mopani,Limpopo,South Africa,-23.5828481,30.5825901
+Mokwakwaila,-------,0862,Gakgapane,Mopani,Limpopo,South Africa,-23.6554802,30.2267506
+Ramochinyadi,-------,0863,Tzaneen,Mopani,Limpopo,South Africa,-23.621708,30.5949809
+Lengeta,-------,0864,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mmamehlabe,-------,0865,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mooilyk,-------,0866,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Maboine,-------,0867,Polokwane,Capricorn,Limpopo,South Africa,-23.8658735,29.4014328
+Moleketla,-------,0868,Tzaneen,Mopani,Limpopo,South Africa,-23.6837611,30.2887685
+Giyani East,-------,0869,Giyani East,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Giyani-oos,-------,0869,Giyani,Vhembe,Limpopo,South Africa,-23.3072476,30.7062535
+Dan Village,0870,-------,Letaba,Mopani,Limpopo,South Africa,-23.9033006,30.2656955
+Letaba,0870,0870,Letaba,Mopani,Limpopo,South Africa,-23.9698856,31.7874266
+Nkowankowa,0870,0870,Letaba,Mopani,Limpopo,South Africa,-23.8904524,30.30030349999999
+Maake,-------,0871,Tzaneen,Mopani,Limpopo,South Africa,-24.0242044,30.2584844
+Nwamitwa,0871,0871,Tzaneen,Mopani,Limpopo,South Africa,-23.7325334,30.4087944
+Xihoko,-------,0872,Tzaneen,Mopani,Limpopo,South Africa,-23.6469169,30.4847904
+Mogopene,-------,0873,Shiluvane,Mopani,Limpopo,South Africa,-24.038993,30.2830007
+Pharare,-------,0873,Shiluvane,Mopani,Limpopo,South Africa,-24.0471551,30.3132792
+Shiluvane,0873,0873,Tzaneen,Mopani,Limpopo,South Africa,-24.038993,30.2830007
+Tours Village,-------,0873,Shiluvane,Mopani,Limpopo,South Africa,-24.1052787,30.2555998
+Hovheni,-------,0875,Tzaneen,Mopani,Limpopo,South Africa,-24.09922,30.3325699
+Julesburg,-------,0875,Tzaneen,Mopani,Limpopo,South Africa,-24.0986483,30.3291365
+Muhlava,-------,0876,Tzaneen,Mopani,Limpopo,South Africa,-23.9702443,30.3924228
+Dan,0877,0877,Letaba,Mopani,Limpopo,South Africa,-23.9033006,30.2656955
+Mhlaba Cross,-------,0878,Letaba,Mopani,Limpopo,South Africa,-23.9659927,30.2765115
+Mhlaba-cross,-------,0878,Letaba,Mopani,Limpopo,South Africa,-23.9659927,30.2765115
+Mamatsha,-------,0879,Mamatsha,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Medingen Village,0880,-------,Polokwane,Capricorn,Limpopo,South Africa,-23.9419691,29.4227278
+Monakhi,-------,0881,Polokwane,Capricorn,Limpopo,South Africa,-24.0901626,29.6701446
+Polokwane South,-------,0882,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Polokwane-Suid,-------,0882,Polokwane,Capricorn,Limpopo,South Africa,-23.9163478,29.4767429
+Thornhill Plaza,0699,0882,Polokwane,Capricorn,Limpopo,South Africa,-23.87369,29.5092968
+Woodlands Estate,0699,0882,Polokwane,Vhembe,Limpopo,South Africa,-23.880029,29.4998944
+Woodlands Landgoed,0699,0882,Polokwane,Vhembe,Limpopo,South Africa,-23.880029,29.4998944
+Nkambako,-------,0883,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Abel,-------,0884,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Aventura Eiland,0885,0885,Letsitele,Mopani,Limpopo,South Africa,-23.8888182,30.3882242
+Aventura Eiland,-------,0885,Aventura Eiland,Mopani,Limpopo,South Africa,-23.6566955,30.67096249999999
+Eiland,-------,0885,Eiland,Mopani,Limpopo,South Africa,-23.6566955,30.67096249999999
+Letsitele,0885,0885,Letsitele,Mopani,Limpopo,South Africa,-23.8888182,30.3882242
+Makgaung,-------,0885,Letsitele,Mopani,Limpopo,South Africa,-23.8888182,30.3882242
+Mafarana,-------,0886,Letsitele,Mopani,Limpopo,South Africa,-23.9649008,30.38029939999999
+Sedan,-------,0886,Letsitele,Mopani,Limpopo,South Africa,-23.8888182,30.3882242
+Tlhotlhokwe,-------,0889,Polokwane,Mopani,Limpopo,South Africa,-23.8961708,29.4486263
+Calais,-------,0890,Letsitele,Mopani,Limpopo,South Africa,-24.1344414,30.3493158
+Trichardtsdal,0890,0890,Trichardtsdal,Mopani,Limpopo,South Africa,-24.166667,30.4
+Moetladimo,0891,0891,Trichardtsdal,Mopani,Limpopo,South Africa,-24.2645451,30.4552057
+Paledi,-------,0892,Tzaneen,Mopani,Limpopo,South Africa,-23.890424,29.700632
+Turkey,-------,0893,Trichardtsdal,Mopani,Limpopo,South Africa,-24.3161294,30.5034396
+Mabins,-------,0894,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Gravelotte,-------,0895,Gravelotte,Mopani,Limpopo,South Africa,-23.9509759,30.6185513
+Mamabala Ditlou,-------,0896,Trichardtsdal,Mopani,Limpopo,South Africa,-24.166667,30.4
+Mamabala-ditlou,-------,0896,Trichardtsdal,Mopani,Limpopo,South Africa,-24.166667,30.4
+Buqa,-------,0897,Gakgapane,Capricorn,Limpopo,South Africa,-23.645364,30.2238654
+Mabatlani,-------,0898,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Mbhetana,-------,0899,Polokwane,Mopani,Limpopo,South Africa,-23.8961708,29.4486263
+Antrobus,0900,-------,Messina,Vhembe,Limpopo,South Africa,53.3129046,-2.5375176
+Messina,0900,0900,Messina,Vhembe,Limpopo,South Africa,-22.3812506,30.0318547
+Messina Ext,0900,-------,Messina,Vhembe,Limpopo,South Africa,-22.3812506,30.0318547
+Messina Uit,0900,-------,Messina,Vhembe,Limpopo,South Africa,-22.3812506,30.0318547
+Musina,0900,0900,Musina,Vhembe,Limpopo,South Africa,-22.3812506,30.0318547
+Tshipise,0901,0901,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0917835,29.9087384
+Hubyeni,-------,0902,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Limpopo,-------,0902,Limpopo,Vhembe,Limpopo,South Africa,-23.4012946,29.4179324
+Lwamondo Thondoni,-------,0903,Polokwane,Vhembe,Limpopo,South Africa,-23.0105062,30.3581158
+Nancefield,-------,0904,Nancefield,Vhembe,Limpopo,South Africa,-22.3384821,30.0174067
+Phangami,-------,0904,Thohoyandou,Vhembe,Limpopo,South Africa,-22.97177,30.4888
+Waterpoort,0905,0905,Louis Trichardt,Vhembe,Limpopo,South Africa,-22.90715,29.6189
+Lambani,-------,0906,Sibasa,Vhembe,Limpopo,South Africa,-22.7066456,30.8150768
+Folovhodwe,-------,0907,Sibasa,Vhembe,Limpopo,South Africa,-22.5859267,30.4328824
+Alldays,0909,0909,Louis Trichardt,Capricorn,Limpopo,South Africa,-23.0917835,29.9087384
+Motlhele,-------,0910,Polokwane,Mopani,Limpopo,South Africa,-23.8961708,29.4486263
+Taulome,-------,0912,Polokwane,Mopani,Limpopo,South Africa,-23.8982525,29.45037
+Thorp,-------,0913,Polokwane,Capricorn,Limpopo,South Africa,-22.9483015,28.6891853
+Tsietsi Mashinini,-------,0914,Polokwane,Capricorn,Limpopo,South Africa,-23.8961708,29.4486263
+Tsietsi-mashinini,-------,0914,Polokwane,Vhembe,Limpopo,South Africa,-23.8961708,29.4486263
+Nwamankena,-------,0915,Giyani,Mopani,Limpopo,South Africa,-23.3757035,30.525031
+Tshebedi,-------,0916,Juno,Capricorn,Limpopo,South Africa,-23.625872,29.0270806
+Mbokota,-------,0917,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.2029798,30.0939635
+Thamagane,-------,0918,Thamagane,Capricorn,Limpopo,South Africa,-24.3878676,29.5296214
+Ditenteng,-------,0919,Ditenteng,Capricorn,Limpopo,South Africa,-23.6788296,29.2306255
+Elti Villas,0920,0922,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0559501,29.9256259
+Elti Villas,0920,-------,Elti Villas,Vhembe,Limpopo,South Africa,-23.0559501,29.9256259
+Elti Villas Ext 1,0920,0920,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0559501,29.9256259
+Elti Villas Uit 1,0920,0920,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0559501,29.9256259
+Louis Trichardt,-------,0920,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Louis Trichardt,0920,0920,Makhado,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Makhado,0920,0920,Makhado,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Sinthumule,0921,0921,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0994536,29.7638719
+Elti Villas,0920,0922,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0559501,29.9256259
+Buysdorp,0923,0923,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.066667,29.4
+Vivo,0924,0924,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0432422,29.2766931
+Mopane,0925,0925,Louis Trichardt,Vhembe,Limpopo,South Africa,-22.61606,29.85858
+Vhulaudzi,-------,0926,Sibasa,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Bonisani,0927,0927,Malamulele,Vhembe,Limpopo,South Africa,-22.9981571,30.69611549999999
+Saselamani,0928,0928,Malamulele,Vhembe,Limpopo,South Africa,-22.9981571,30.69611549999999
+Levubu,0929,0929,Levubu,Vhembe,Limpopo,South Africa,-23.083333,30.283333
+Vongani,0930,0930,Giyani,Mopani,Limpopo,South Africa,-23.3166667,30.7166667
+Blinkwater,-------,0931,Giyani,Mopani,Limpopo,South Africa,-23.4110406,30.3349024
+Vuyani,0931,0931,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Nwamanungu,0932,0932,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Khomanani,0933,0933,Giyani,Mopani,Limpopo,South Africa,-23.2628058,30.3824608
+Majosi,-------,0933,Giyani,Mopani,Limpopo,South Africa,-23.2220713,30.3406679
+Mara,0934,-------,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.03528,29.65833
+Valdezia,0935,0935,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.1150454,30.1993381
+Makhado,-------,0936,Thohoyandou,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Fumani,-------,0937,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Tshilwavhusiku,-------,0938,Tshilwavhusiku,Vhembe,Limpopo,South Africa,-23.097639,29.7424262
+Mabetha Mamadi,-------,0939,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Kutama,0940,0940,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0708281,29.6476972
+Kutama Village,0940,0940,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0410176,29.8883785
+Masakona,0941,0941,Giyani,Vhembe,Limpopo,South Africa,-23.2758042,30.2479434
+Masakona Village,0941,0941,Giyani,Vhembe,Limpopo,South Africa,-23.2758042,30.2479434
+Mashamba,0942,0942,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0462413,29.9046562
+Mashau,0943,0943,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.1462262,30.1978952
+Masia,0944,0944,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Shayandima,-------,0945,Shayandima,Vhembe,Limpopo,South Africa,-23.0119217,30.4213592
+Muila,-------,0946,Muila,Vhembe,Limpopo,South Africa,-23.3637166,29.9812799
+Mulenzhe,-------,0947,Mulenzhe,Vhembe,Limpopo,South Africa,-22.9975008,30.5653251
+Mundzhedzi,0948,0948,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.2142097,29.9935415
+Munzhedzi,0948,0948,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.2142097,29.9935415
+Vleifontein Loc,-------,0948,Munzhedzi,Vhembe,Limpopo,South Africa,-23.213499,29.9918906
+Muwaweni,0949,0949,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.0917835,29.9087384
+Muwaweni Village,0949,0949,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.3282925,30.1112911
+Thohoyandou,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.9748857,30.4444046
+Thohoyandou Block F,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Thohoyandou Block G,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.9673798,30.4868963
+Thohoyandou Block K,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Thohoyandou Block Q,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Thohoyandou Blok F,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Thohoyandou Blok G,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.9673798,30.4868963
+Thohoyandou Blok K,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.878541,30.4818446
+Thohoyandou Blok Q,0950,0950,Thohoyandou,Vhembe,Limpopo,South Africa,-22.9673798,30.4868963
+Tshakhuma,-------,0951,Tshakhuma,Vhembe,Limpopo,South Africa,-23.0502563,30.3031871
+Vuwani,-------,0952,Vuwani,Vhembe,Limpopo,South Africa,-23.1352377,30.4213592
+Gumbani,-------,0953,Malamulele,Vhembe,Limpopo,South Africa,-23.0905862,30.5494968
+Braambos Military Base,-------,0954,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.1586139,29.6989266
+Dzanani,0955,0955,Sibasa,Vhembe,Limpopo,South Africa,-22.8776301,30.1531568
+Dzanani 2,0955,0955,Sibasa,Vhembe,Limpopo,South Africa,-22.8776301,30.1531568
+Makhado,-------,0955,Dzanani,Vhembe,Limpopo,South Africa,-22.8776301,30.1531568
+Mutale,0956,0956,Mutale,Mopani,Limpopo,South Africa,-22.5108293,30.8039474
+Tshilamba Loc,-------,0956,Mutale,Mopani,Limpopo,South Africa,-22.7375327,30.5249658
+Sifahla,-------,0957,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.215144,30.261195
+Shakadza,-------,0958,Shakadza,Vhembe,Limpopo,South Africa,-22.6159906,30.5710804
+Tshikondeni,-------,0959,Tshikondeni,Vhembe,Limpopo,South Africa,-22.5151339,30.9418988
+Bungeni,-------,0960,Bungeni,Vhembe,Limpopo,South Africa,-23.1845202,30.1690334
+Elim Hospitaal,0960,0960,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.1533756,30.056596
+Elim Hospital,0960,0960,Louis Trichardt,Vhembe,Limpopo,South Africa,-23.1533756,30.056596
+Ga-Raphukula,-------,0961,Ga-Raphukula,Capricorn,Limpopo,South Africa,-23.4012946,29.4179324
+Mamadi,-------,0962,Mamadi,Capricorn,Limpopo,South Africa,-22.8466553,28.9091914
+Tshitandani,-------,0963,Tshitandani,Capricorn,Limpopo,South Africa,-22.7260154,30.4264007
+Solomondale,-------,0964,Polokwane,Capricorn,Limpopo,South Africa,-23.76194,29.67167
+Manenzhe,0967,0967,Manenzhe,Vhembe,Limpopo,South Africa,-23.4012946,29.4179324
+Manenzhe Village,0967,0967,Manenzhe,Vhembe,Limpopo,South Africa,-23.4012946,29.4179324
+Fhatuwani,0968,0968,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Fondwe,0969,0969,Sibasa,Vhembe,Limpopo,South Africa,-22.9287163,30.2685799
+Fondwe Village,0969,0969,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Sibasa,-------,0970,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Tshandama,0970,-------,Sibasa,Vhembe,Limpopo,South Africa,-22.7682335,30.5221524
+Tshukhuma,0970,-------,Sibasa,Vhembe,Limpopo,South Africa,-23.0502563,30.3031871
+Vhufuli,0971,0971,Sibasa,Vhembe,Limpopo,South Africa,-22.8836861,30.4796849
+Vhufuli Village,0971,0971,Sibasa,Vhembe,Limpopo,South Africa,-22.8836861,30.4796849
+Tshidimbini,0972,0972,Sibasa,Vhembe,Limpopo,South Africa,-22.8684603,30.5423015
+Tshidimbini Village,0972,0972,Sibasa,Vhembe,Limpopo,South Africa,-22.8684603,30.5423015
+Ha-makuya,0973,0973,Sibasa,Vhembe,Limpopo,South Africa,-22.6406715,30.8283589
+Hamakuya,0973,0973,Sibasa,Vhembe,Limpopo,South Africa,-22.6406715,30.8283589
+Khakhu,-------,0974,Sibasa,Vhembe,Limpopo,South Africa,-22.8385537,30.2440609
+Dzimauli,0975,0975,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Dzimauli Village,0975,0975,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Tshixwadza,0975,0975,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Mhinga,0976,0976,Muthathi,Vhembe,Limpopo,South Africa,-22.7658107,30.9058691
+Muthathi,0976,0976,Sibasa,Vhembe,Limpopo,South Africa,12.3185378,77.30049160000002
+Tshilaphala,0977,0977,Sibasa,Vhembe,Limpopo,South Africa,-22.8113817,30.7421793
+Mukula,-------,0978,Mukula,Vhembe,Limpopo,South Africa,-22.8628033,30.5753966
+Tshifudi,0979,0979,Sibasa,Vhembe,Limpopo,South Africa,-22.8236368,30.703379
+Tshifudi Village,0979,0979,Sibasa,Vhembe,Limpopo,South Africa,-22.8236368,30.703379
+Xikundu,0980,0980,Sibasa,Vhembe,Limpopo,South Africa,-22.8252778,30.7958333
+Xigalo,0981,0981,Malamulele,Vhembe,Limpopo,South Africa,-22.9646333,30.6974138
+Malamulele,-------,0982,Malamulele,Vhembe,Limpopo,South Africa,-22.9981571,30.69611549999999
+Tshimbupfe,0983,0983,Giyani,Vhembe,Limpopo,South Africa,-23.1764028,30.4861639
+Tshimbupfe Village,0983,0983,Giyani,Vhembe,Limpopo,South Africa,-23.3072476,30.7062535
+Makonde,-------,0984,Giyani,Vhembe,Limpopo,South Africa,-22.8063855,30.5825901
+Makonde Village,-------,0984,Giyani,Vhembe,Limpopo,South Africa,-22.8063855,30.5825901
+Lwamondo,-------,0985,Giyani,Vhembe,Limpopo,South Africa,-23.0105062,30.3581158
+Sambo,0986,0986,Giyani,Mopani,Limpopo,South Africa,-23.3072476,30.7062535
+Tshaulu,0987,0987,Giyani,Vhembe,Limpopo,South Africa,-23.3090967,30.6868361
+Tshaulu Village,0987,0987,Giyani,Vhembe,Limpopo,South Africa,-22.8072955,30.7551101
+Matidze,0988,0988,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Masisi,0989,0989,Sibasa,Vhembe,Limpopo,South Africa,-22.4201734,30.859943
+Masisi Village,0989,0989,Sibasa,Vhembe,Limpopo,South Africa,-22.4201734,30.859943
+Matavhela,0990,0990,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Matavhela Village,0990,0990,Sibasa,Vhembe,Limpopo,South Africa,-22.6730883,30.5351057
+Mudimeli,-------,0991,Mudimeli,Vhembe,Limpopo,South Africa,-22.803304,29.9538172
+Mauluma Village,-------,0992,Mungomani,Vhembe,Limpopo,South Africa,-22.9280556,30.0991667
+Mungomani,-------,0992,Mungomani,Vhembe,Limpopo,South Africa,-22.9280556,30.0991667
+Nzhelele,0993,0993,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Nzhelele Village,0993,0993,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Phiphidi,0994,0994,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Phiphidi Village,0994,0994,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Sagole,0995,0995,Sibasa,Vhembe,Limpopo,South Africa,-22.5004464,30.633192
+Tshififi,0996,0996,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Tshififi Village,0996,0996,Sibasa,Vhembe,Limpopo,South Africa,-22.932497,30.4674459
+Mudabula,-------,0997,Malamulele,Vhembe,Limpopo,South Africa,-23.1107858,30.5552528
+Mavambe,-------,0998,Malamulele,Vhembe,Limpopo,South Africa,-23.0025884,30.635809
+Mphambo,-------,0999,Malamulele,Vhembe,Limpopo,South Africa,-23.0973357,30.6746303
+Makuleke,-------,1007,Malamulele,Vhembe,Limpopo,South Africa,-22.8691839,30.9159131
+Shingwedzi,-------,1008,Malamulele,Vhembe,Limpopo,South Africa,-22.9945814,30.6872603
+Dennilton,1030,1030,Groblersdal,Sekhukhune,Limpopo,South Africa,-25.25,29.166667
+Kgobokoane Village,-------,1030,Kgobokoane Village,Sekhukhune,Limpopo,South Africa,-25.1339419,29.1099855
+Ngwabe,-------,1058,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.8744158,29.9677819
+Eensaam,-------,1059,Eensaam,Sekhukhune,Limpopo,South Africa,-31.416667,28.083333
+Masemola,-------,1060,Groblersdal,Sekhukhune,Limpopo,South Africa,-24.5550474,29.6354282
+Glen Cowie,-------,1061,Groblersdal,Sekhukhune,Limpopo,South Africa,-24.8400513,29.8091854
+Makadikwe,-------,1062,Marble Hall,Sekhukhune,Limpopo,South Africa,-24.9650576,29.2814687
+Sekwati,-------,1063,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.7218326,29.8091854
+Ga Tisane,-------,1064,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.7,29.783333
+Ga-tisane,-------,1064,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.7,29.783333
+Marishane,-------,1064,Groblersdal,Sekhukhune,Limpopo,South Africa,-24.7269849,29.7483949
+Laersdrif,-------,1065,Middelburg,Sekhukhune,Limpopo,South Africa,-25.3644376,29.85982379999999
+Roossenekal,-------,1066,Middelburg,Sekhukhune,Limpopo,South Africa,-25.1903986,29.924903
+Marulaneng,-------,1067,Marulaneng,Sekhukhune,Limpopo,South Africa,-24.683333,29.9
+Tshweneng,-------,1078,Mpudulle,Sekhukhune,Limpopo,South Africa,-23.4012946,29.4179324
+Jane Furse,1085,1085,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.666667,30.333333
+Jane Furse Hospital,-------,1085,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.666667,30.333333
+Sekhukhune,1124,1124,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.8334603,29.9740534
+Manganeng,-------,1127,Sekhukhune,Sekhukhune,Limpopo,South Africa,-24.6662723,29.9653811
+Steelpoort,-------,1133,Steelpoort,Sekhukhune,Limpopo,South Africa,-24.8008579,30.1704766
+Aloe Ridge,1150,1150,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.694242,30.342438
+Alridge West,1150,1150,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.6813666,30.3349024
+Burgersfort,-------,1150,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.6813666,30.3349024
+Moroke,-------,1154,Penge,Sekhukhune,Limpopo,South Africa,-24.4007363,30.0751895
+Penge,-------,1160,Burgersfort,Sekhukhune,Limpopo,South Africa,-24.4166667,30.3
+Benfarm,-------,1220,Nelspruit,Mopani,Limpopo,South Africa,-23.9010696,31.0492766
+Riverside,-------,1226,Nelspruit,Mopani,Limpopo,South Africa,-25.4375249,30.9676564
+Low's Creek,-------,1302,Nelspruit,Mopani,Limpopo,South Africa,-25.633333,31.283333
+Kampersrus,-------,1371,Hoedspruit,Mopani,Limpopo,South Africa,-24.5186035,30.8886488
+Drakensig,1380,1380,Hoedspruit,Mopani,Limpopo,South Africa,-24.34968,30.9478
+Hoedspruit,1380,1380,Hoedspruit,Mopani,Limpopo,South Africa,-24.346139,30.9732917
+Mica,-------,1382,Hoedspruit,Mopani,Limpopo,South Africa,-24.15,30.833333
+The Oaks,-------,1384,Hoedspruit,Mopani,Limpopo,South Africa,-24.362387,30.6752748
+Phalaborwa,1389,1390,Phalaborwa,Mopani,Limpopo,South Africa,-23.9424435,31.14092179999999
+Phalaborwa Heavy Ind Sites,1389,1390,Phalaborwa,Mopani,Limpopo,South Africa,-23.9424435,31.14092179999999
+Makhuswane,1390,-------,Phalaborwa,Mopani,Limpopo,South Africa,-23.968007,31.0421102
+Phalaborwa,1389,1390,Phalaborwa,Mopani,Limpopo,South Africa,-23.9424435,31.14092179999999
+Phalaborwa Heavy Ind Sites,1389,1390,Phalaborwa,Mopani,Limpopo,South Africa,-23.9424435,31.14092179999999
+Namakgale,1391,1391,Phalaborwa,Mopani,Limpopo,South Africa,-23.9411214,31.019175099999998
+Lulekani,1392,1392,Phalaborwa,Mopani,Limpopo,South Africa,-23.8659149,31.0767214
+Patamedi,-------,1393,Phalaborwa,Mopani,Limpopo,South Africa,-23.9424435,31.14092179999999
+Selwana,-------,1394,Phalaborwa,Mopani,Limpopo,South Africa,-23.6946138,30.927391
+Mashishimale,-------,1395,Phalaborwa,Mopani,Limpopo,South Africa,-23.9938802,30.9919339
+Maseke,-------,1396,Phalaborwa,Mopani,Limpopo,South Africa,-23.98882,31.0048
+Tlapeng,-------,1397,Namakgale,Mopani,Limpopo,South Africa,-25.7387802,25.4615092
+Batubatse,-------,1398,Batubatse,Mopani,Limpopo,South Africa,-24.6865139,30.2512728
+Glenferness,-------,2191,Glenferness,Capricorn,Limpopo,South Africa,-25.9964182,28.0391009
+Taung,8584,8584,Taung,Capricorn,Limpopo,South Africa,-23.7095403,29.0678114
+Dikhuting Village,-------,8609,Taung,Capricorn,Limpopo,South Africa,-27.6326162,24.861199
